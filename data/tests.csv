@@ -1,0 +1,838 @@
+test_id,family_id,analysis,scope,model,cohort,sex,measure,p_value
+T0001,F031,CTQ-pain,cohorts-sex-stratified,1,GS,Male,TotalEN,0.04840378302702925
+T0002,F031,CTQ-pain,cohorts-sex-stratified,1,GS,Male,TotalPN,0.7285009874334172
+T0003,F031,CTQ-pain,cohorts-sex-stratified,1,GS,Male,TotalEA,0.064681557683027
+T0004,F031,CTQ-pain,cohorts-sex-stratified,1,GS,Male,TotalPA,0.06016718596715116
+T0005,F031,CTQ-pain,cohorts-sex-stratified,1,GS,Male,TotalSA,0.0999359695145868
+T0006,F032,CTQ-pain,cohorts-sex-stratified,1,GS,Male,CTQ_Total,0.02587130795849744
+T0007,F031,CTQ-pain,cohorts-sex-stratified,1,GS,Female,TotalEN,5.326835972170319e-09
+T0008,F031,CTQ-pain,cohorts-sex-stratified,1,GS,Female,TotalPN,0.000988822765133311
+T0009,F031,CTQ-pain,cohorts-sex-stratified,1,GS,Female,TotalEA,2.444319311451185e-07
+T0010,F031,CTQ-pain,cohorts-sex-stratified,1,GS,Female,TotalPA,0.00535137129935435
+T0011,F031,CTQ-pain,cohorts-sex-stratified,1,GS,Female,TotalSA,0.01176415937463164
+T0012,F032,CTQ-pain,cohorts-sex-stratified,1,GS,Female,CTQ_Total,5.587255357350984e-08
+T0013,F031,CTQ-pain,cohorts-sex-stratified,1,MIDUS,Male,TotalEN,0.0119983111527532
+T0014,F031,CTQ-pain,cohorts-sex-stratified,1,MIDUS,Male,TotalPN,0.02792539811239902
+T0015,F031,CTQ-pain,cohorts-sex-stratified,1,MIDUS,Male,TotalEA,0.2278856837314671
+T0016,F031,CTQ-pain,cohorts-sex-stratified,1,MIDUS,Male,TotalPA,0.1049994219210163
+T0017,F031,CTQ-pain,cohorts-sex-stratified,1,MIDUS,Male,TotalSA,0.08521187676894457
+T0018,F032,CTQ-pain,cohorts-sex-stratified,1,MIDUS,Male,CTQ_Total,0.01261908277364719
+T0019,F031,CTQ-pain,cohorts-sex-stratified,1,MIDUS,Female,TotalEN,0.002368156683293339
+T0020,F031,CTQ-pain,cohorts-sex-stratified,1,MIDUS,Female,TotalPN,0.001911215125747415
+T0021,F031,CTQ-pain,cohorts-sex-stratified,1,MIDUS,Female,TotalEA,0.02028023092117621
+T0022,F031,CTQ-pain,cohorts-sex-stratified,1,MIDUS,Female,TotalPA,4.896494010167485e-06
+T0023,F031,CTQ-pain,cohorts-sex-stratified,1,MIDUS,Female,TotalSA,2.531243549655363e-05
+T0024,F032,CTQ-pain,cohorts-sex-stratified,1,MIDUS,Female,CTQ_Total,1.309074358471374e-05
+T0025,F033,CTQ-pain,cohorts-sex-stratified,2,GS,Male,TotalEN,0.05691744935855618
+T0026,F033,CTQ-pain,cohorts-sex-stratified,2,GS,Male,TotalPN,0.832331596885106
+T0027,F033,CTQ-pain,cohorts-sex-stratified,2,GS,Male,TotalEA,0.07427286271654884
+T0028,F033,CTQ-pain,cohorts-sex-stratified,2,GS,Male,TotalPA,0.07993099506874571
+T0029,F033,CTQ-pain,cohorts-sex-stratified,2,GS,Male,TotalSA,0.1231906902941349
+T0030,F034,CTQ-pain,cohorts-sex-stratified,2,GS,Male,CTQ_Total,0.03651813551316586
+T0031,F033,CTQ-pain,cohorts-sex-stratified,2,GS,Female,TotalEN,1.275963734179079e-08
+T0032,F033,CTQ-pain,cohorts-sex-stratified,2,GS,Female,TotalPN,0.001591202601071965
+T0033,F033,CTQ-pain,cohorts-sex-stratified,2,GS,Female,TotalEA,5.215241723095167e-07
+T0034,F033,CTQ-pain,cohorts-sex-stratified,2,GS,Female,TotalPA,0.0109892022072146
+T0035,F033,CTQ-pain,cohorts-sex-stratified,2,GS,Female,TotalSA,0.02224977927229883
+T0036,F034,CTQ-pain,cohorts-sex-stratified,2,GS,Female,CTQ_Total,1.872080084076173e-07
+T0037,F033,CTQ-pain,cohorts-sex-stratified,2,MIDUS,Male,TotalEN,0.01402764975343257
+T0038,F033,CTQ-pain,cohorts-sex-stratified,2,MIDUS,Male,TotalPN,0.03498512319137881
+T0039,F033,CTQ-pain,cohorts-sex-stratified,2,MIDUS,Male,TotalEA,0.2365365038063021
+T0040,F033,CTQ-pain,cohorts-sex-stratified,2,MIDUS,Male,TotalPA,0.1167408339384028
+T0041,F033,CTQ-pain,cohorts-sex-stratified,2,MIDUS,Male,TotalSA,0.0972055498893802
+T0042,F034,CTQ-pain,cohorts-sex-stratified,2,MIDUS,Male,CTQ_Total,0.015742644441286
+T0043,F033,CTQ-pain,cohorts-sex-stratified,2,MIDUS,Female,TotalEN,0.005840663896876531
+T0044,F033,CTQ-pain,cohorts-sex-stratified,2,MIDUS,Female,TotalPN,0.00553509050080615
+T0045,F033,CTQ-pain,cohorts-sex-stratified,2,MIDUS,Female,TotalEA,0.1145205693263224
+T0046,F033,CTQ-pain,cohorts-sex-stratified,2,MIDUS,Female,TotalPA,7.296050980941606e-05
+T0047,F033,CTQ-pain,cohorts-sex-stratified,2,MIDUS,Female,TotalSA,0.0006992664490518318
+T0048,F034,CTQ-pain,cohorts-sex-stratified,2,MIDUS,Female,CTQ_Total,0.0002614719998445038
+T0049,F035,CTQ-pain,cohorts-sex-stratified,3,GS,Male,TotalEN,0.05420479669943871
+T0050,F035,CTQ-pain,cohorts-sex-stratified,3,GS,Male,TotalPN,0.9370369200805191
+T0051,F035,CTQ-pain,cohorts-sex-stratified,3,GS,Male,TotalEA,0.08785810623698947
+T0052,F035,CTQ-pain,cohorts-sex-stratified,3,GS,Male,TotalPA,0.09600590585189496
+T0053,F035,CTQ-pain,cohorts-sex-stratified,3,GS,Male,TotalSA,0.1334532476442114
+T0054,F036,CTQ-pain,cohorts-sex-stratified,3,GS,Male,CTQ_Total,0.04333524503642742
+T0055,F035,CTQ-pain,cohorts-sex-stratified,3,GS,Female,TotalEN,2.536667332286263e-08
+T0056,F035,CTQ-pain,cohorts-sex-stratified,3,GS,Female,TotalPN,0.003117531443702874
+T0057,F035,CTQ-pain,cohorts-sex-stratified,3,GS,Female,TotalEA,1.135186491833716e-06
+T0058,F035,CTQ-pain,cohorts-sex-stratified,3,GS,Female,TotalPA,0.01668390575429426
+T0059,F035,CTQ-pain,cohorts-sex-stratified,3,GS,Female,TotalSA,0.03413859581061465
+T0060,F036,CTQ-pain,cohorts-sex-stratified,3,GS,Female,CTQ_Total,4.860645531924484e-07
+T0061,F035,CTQ-pain,cohorts-sex-stratified,3,MIDUS,Male,TotalEN,0.01687417028915911
+T0062,F035,CTQ-pain,cohorts-sex-stratified,3,MIDUS,Male,TotalPN,0.04037122497829405
+T0063,F035,CTQ-pain,cohorts-sex-stratified,3,MIDUS,Male,TotalEA,0.2566173462920254
+T0064,F035,CTQ-pain,cohorts-sex-stratified,3,MIDUS,Male,TotalPA,0.1349237084069816
+T0065,F035,CTQ-pain,cohorts-sex-stratified,3,MIDUS,Male,TotalSA,0.1171138304019619
+T0066,F036,CTQ-pain,cohorts-sex-stratified,3,MIDUS,Male,CTQ_Total,0.01980272302990061
+T0067,F035,CTQ-pain,cohorts-sex-stratified,3,MIDUS,Female,TotalEN,0.03338313912569761
+T0068,F035,CTQ-pain,cohorts-sex-stratified,3,MIDUS,Female,TotalPN,0.01882221378953454
+T0069,F035,CTQ-pain,cohorts-sex-stratified,3,MIDUS,Female,TotalEA,0.2098003282045683
+T0070,F035,CTQ-pain,cohorts-sex-stratified,3,MIDUS,Female,TotalPA,0.0007710198751183971
+T0071,F035,CTQ-pain,cohorts-sex-stratified,3,MIDUS,Female,TotalSA,0.008801409248407506
+T0072,F036,CTQ-pain,cohorts-sex-stratified,3,MIDUS,Female,CTQ_Total,0.002768189611610281
+T0073,F025,CTQ-pain,cohorts-combined-sex,1,GS,Combined,TotalEN,8.459729660640368e-09
+T0074,F025,CTQ-pain,cohorts-combined-sex,1,GS,Combined,TotalPN,0.005422899895694114
+T0075,F025,CTQ-pain,cohorts-combined-sex,1,GS,Combined,TotalEA,6.488154913455951e-08
+T0076,F025,CTQ-pain,cohorts-combined-sex,1,GS,Combined,TotalPA,0.0007939732172974733
+T0077,F025,CTQ-pain,cohorts-combined-sex,1,GS,Combined,TotalSA,0.003286665708593815
+T0078,F026,CTQ-pain,cohorts-combined-sex,1,GS,Combined,CTQ_Total,7.066058130605427e-09
+T0079,F025,CTQ-pain,cohorts-combined-sex,1,MIDUS,Combined,TotalEN,7.742172908213973e-05
+T0080,F025,CTQ-pain,cohorts-combined-sex,1,MIDUS,Combined,TotalPN,0.0001836723424198604
+T0081,F025,CTQ-pain,cohorts-combined-sex,1,MIDUS,Combined,TotalEA,0.0093310119247311
+T0082,F025,CTQ-pain,cohorts-combined-sex,1,MIDUS,Combined,TotalPA,4.473933868572043e-06
+T0083,F025,CTQ-pain,cohorts-combined-sex,1,MIDUS,Combined,TotalSA,1.639820720738778e-05
+T0084,F026,CTQ-pain,cohorts-combined-sex,1,MIDUS,Combined,CTQ_Total,7.245359485594431e-07
+T0085,F027,CTQ-pain,cohorts-combined-sex,2,GS,Combined,TotalEN,2.773985358708942e-08
+T0086,F027,CTQ-pain,cohorts-combined-sex,2,GS,Combined,TotalPN,0.01053700907827863
+T0087,F027,CTQ-pain,cohorts-combined-sex,2,GS,Combined,TotalEA,1.976792159758312e-07
+T0088,F027,CTQ-pain,cohorts-combined-sex,2,GS,Combined,TotalPA,0.002386353616464546
+T0089,F027,CTQ-pain,cohorts-combined-sex,2,GS,Combined,TotalSA,0.009028334343766676
+T0090,F028,CTQ-pain,cohorts-combined-sex,2,GS,Combined,CTQ_Total,4.730414374622744e-08
+T0091,F027,CTQ-pain,cohorts-combined-sex,2,MIDUS,Combined,TotalEN,0.000197152375047094
+T0092,F027,CTQ-pain,cohorts-combined-sex,2,MIDUS,Combined,TotalPN,0.0005410243352590136
+T0093,F027,CTQ-pain,cohorts-combined-sex,2,MIDUS,Combined,TotalEA,0.04117569442907536
+T0094,F027,CTQ-pain,cohorts-combined-sex,2,MIDUS,Combined,TotalPA,3.350226110376088e-05
+T0095,F027,CTQ-pain,cohorts-combined-sex,2,MIDUS,Combined,TotalSA,0.0001731655927014258
+T0096,F028,CTQ-pain,cohorts-combined-sex,2,MIDUS,Combined,CTQ_Total,9.25705927681119e-06
+T0097,F029,CTQ-pain,cohorts-combined-sex,3,GS,Combined,TotalEN,4.262672702232838e-08
+T0098,F029,CTQ-pain,cohorts-combined-sex,3,GS,Combined,TotalPN,0.02041314764240146
+T0099,F029,CTQ-pain,cohorts-combined-sex,3,GS,Combined,TotalEA,4.769395370610565e-07
+T0100,F029,CTQ-pain,cohorts-combined-sex,3,GS,Combined,TotalPA,0.004151309315660977
+T0101,F029,CTQ-pain,cohorts-combined-sex,3,GS,Combined,TotalSA,0.01434234557677323
+T0102,F030,CTQ-pain,cohorts-combined-sex,3,GS,Combined,CTQ_Total,1.332834308590803e-07
+T0103,F029,CTQ-pain,cohorts-combined-sex,3,MIDUS,Combined,TotalEN,0.0008985667640326978
+T0104,F029,CTQ-pain,cohorts-combined-sex,3,MIDUS,Combined,TotalPN,0.001503434816752631
+T0105,F029,CTQ-pain,cohorts-combined-sex,3,MIDUS,Combined,TotalEA,0.07588328565562673
+T0106,F029,CTQ-pain,cohorts-combined-sex,3,MIDUS,Combined,TotalPA,0.0002096213036373731
+T0107,F029,CTQ-pain,cohorts-combined-sex,3,MIDUS,Combined,TotalSA,0.001226157747815406
+T0108,F030,CTQ-pain,cohorts-combined-sex,3,MIDUS,Combined,CTQ_Total,7.471960976149158e-05
+T0109,F038,CTQ-pain,pooled-combined-sex,1,Pooled,Combined,TotalCTQ,3.311484420009947e-11
+T0110,F037,CTQ-pain,pooled-combined-sex,1,Pooled,Combined,TotalEA,6.591138435041444e-08
+T0111,F037,CTQ-pain,pooled-combined-sex,1,Pooled,Combined,TotalEN,2.728661741002725e-11
+T0112,F037,CTQ-pain,pooled-combined-sex,1,Pooled,Combined,TotalPA,3.142311744142035e-08
+T0113,F037,CTQ-pain,pooled-combined-sex,1,Pooled,Combined,TotalPN,3.509291469638853e-06
+T0114,F037,CTQ-pain,pooled-combined-sex,1,Pooled,Combined,TotalSA,4.515108473768237e-07
+T0115,F040,CTQ-pain,pooled-combined-sex,2,Pooled,Combined,TotalCTQ,3.311484420009947e-11
+T0116,F039,CTQ-pain,pooled-combined-sex,2,Pooled,Combined,TotalEA,1.311995614150518e-06
+T0117,F039,CTQ-pain,pooled-combined-sex,2,Pooled,Combined,TotalEN,1.609805622138083e-10
+T0118,F039,CTQ-pain,pooled-combined-sex,2,Pooled,Combined,TotalPA,5.253467267873901e-07
+T0119,F039,CTQ-pain,pooled-combined-sex,2,Pooled,Combined,TotalPN,1.62416694795553e-05
+T0120,F039,CTQ-pain,pooled-combined-sex,2,Pooled,Combined,TotalSA,7.633487625557933e-06
+T0121,F042,CTQ-pain,pooled-combined-sex,3,Pooled,Combined,TotalCTQ,5.541724856783503e-10
+T0122,F041,CTQ-pain,pooled-combined-sex,3,Pooled,Combined,TotalEA,4.798254239046784e-06
+T0123,F041,CTQ-pain,pooled-combined-sex,3,Pooled,Combined,TotalEN,1.2127525650385e-09
+T0124,F041,CTQ-pain,pooled-combined-sex,3,Pooled,Combined,TotalPA,3.280318159770701e-06
+T0125,F041,CTQ-pain,pooled-combined-sex,3,Pooled,Combined,TotalPN,6.616439550222175e-05
+T0126,F041,CTQ-pain,pooled-combined-sex,3,Pooled,Combined,TotalSA,7.538807760187893e-05
+T0127,F044,CTQ-pain,pooled-sex-stratified,1,Pooled,Female,Total CTQ,7.351608211081384e-11
+T0128,F044,CTQ-pain,pooled-sex-stratified,1,Pooled,Male,Total CTQ,0.00108564401524025
+T0129,F043,CTQ-pain,pooled-sex-stratified,1,Pooled,Female,Total SA,4.901829787851142e-06
+T0130,F043,CTQ-pain,pooled-sex-stratified,1,Pooled,Male,Total SA,0.02154118578018793
+T0131,F043,CTQ-pain,pooled-sex-stratified,1,Pooled,Female,Total PA,4.030245839281577e-07
+T0132,F043,CTQ-pain,pooled-sex-stratified,1,Pooled,Male,Total PA,0.0179873919557676
+T0133,F043,CTQ-pain,pooled-sex-stratified,1,Pooled,Female,Total EA,9.87506691974005e-07
+T0134,F043,CTQ-pain,pooled-sex-stratified,1,Pooled,Male,Total EA,0.006229549602217777
+T0135,F043,CTQ-pain,pooled-sex-stratified,1,Pooled,Female,Total PN,7.849092388934054e-06
+T0136,F043,CTQ-pain,pooled-sex-stratified,1,Pooled,Male,Total PN,0.05990594530283477
+T0137,F043,CTQ-pain,pooled-sex-stratified,1,Pooled,Female,Total EN,2.474208837810465e-09
+T0138,F043,CTQ-pain,pooled-sex-stratified,1,Pooled,Male,Total EN,0.00233030773253784
+T0139,F046,CTQ-pain,pooled-sex-stratified,2,Pooled,Female,Total CTQ,6.470077362763504e-09
+T0140,F046,CTQ-pain,pooled-sex-stratified,2,Pooled,Male,Total CTQ,0.001422205190410475
+T0141,F045,CTQ-pain,pooled-sex-stratified,2,Pooled,Female,Total SA,0.0001108152699660359
+T0142,F045,CTQ-pain,pooled-sex-stratified,2,Pooled,Male,Total SA,0.03218340581120915
+T0143,F045,CTQ-pain,pooled-sex-stratified,2,Pooled,Female,Total PA,8.666207553575944e-06
+T0144,F045,CTQ-pain,pooled-sex-stratified,2,Pooled,Male,Total PA,0.02099980350953956
+T0145,F045,CTQ-pain,pooled-sex-stratified,2,Pooled,Female,Total EA,4.18959977821487e-10
+T0146,F045,CTQ-pain,pooled-sex-stratified,2,Pooled,Male,Total EA,0.04164188206393171
+T0147,F045,CTQ-pain,pooled-sex-stratified,2,Pooled,Female,Total PN,4.240481378037231e-05
+T0148,F045,CTQ-pain,pooled-sex-stratified,2,Pooled,Male,Total PN,0.0916518724312485
+T0149,F045,CTQ-pain,pooled-sex-stratified,2,Pooled,Female,Total EN,1.615400768706365e-08
+T0150,F045,CTQ-pain,pooled-sex-stratified,2,Pooled,Male,Total EN,0.00183663695295988
+T0151,F048,CTQ-pain,pooled-sex-stratified,3,Pooled,Female,Total CTQ,1.054331761896066e-07
+T0152,F048,CTQ-pain,pooled-sex-stratified,3,Pooled,Male,Total CTQ,0.001915934735461367
+T0153,F047,CTQ-pain,pooled-sex-stratified,3,Pooled,Female,Total SA,0.001232584700885608
+T0154,F047,CTQ-pain,pooled-sex-stratified,3,Pooled,Male,Total SA,0.03199227324825182
+T0155,F047,CTQ-pain,pooled-sex-stratified,3,Pooled,Female,Total PA,0.0001050978563565952
+T0156,F047,CTQ-pain,pooled-sex-stratified,3,Pooled,Male,Total PA,0.02959170020887925
+T0157,F047,CTQ-pain,pooled-sex-stratified,3,Pooled,Female,Total EA,3.112037921915167e-05
+T0158,F047,CTQ-pain,pooled-sex-stratified,3,Pooled,Male,Total EA,0.04232477321032602
+T0159,F047,CTQ-pain,pooled-sex-stratified,3,Pooled,Female,Total PN,0.0002220824618861528
+T0160,F047,CTQ-pain,pooled-sex-stratified,3,Pooled,Male,Total PN,0.1039320298646014
+T0161,F047,CTQ-pain,pooled-sex-stratified,3,Pooled,Female,Total EN,1.625110712666356e-09
+T0162,F047,CTQ-pain,pooled-sex-stratified,3,Pooled,Male,Total EN,0.002386317684890393
+T0163,F010,CTQ severity-pain,pooled-sex-stratified,1,Pooled,Female,Low,0.0005470994302925192
+T0164,F010,CTQ severity-pain,pooled-sex-stratified,1,Pooled,Female,Moderate,0.0151738330080422
+T0165,F010,CTQ severity-pain,pooled-sex-stratified,1,Pooled,Female,Severe,4.185483678975643e-06
+T0166,F010,CTQ severity-pain,pooled-sex-stratified,1,Pooled,Male,Low,0.518383361025822
+T0167,F010,CTQ severity-pain,pooled-sex-stratified,1,Pooled,Male,Moderate,0.07813959801315096
+T0168,F010,CTQ severity-pain,pooled-sex-stratified,1,Pooled,Male,Severe,0.03094111448931525
+T0169,F007,CTQ severity-pain,pooled-combined-sex,1,Pooled,Combined,Low,0.001343356286359509
+T0170,F007,CTQ severity-pain,pooled-combined-sex,1,Pooled,Combined,Moderate,0.001083531000657723
+T0171,F007,CTQ severity-pain,pooled-combined-sex,1,Pooled,Combined,Severe,1.863769945043003e-07
+T0172,F011,CTQ severity-pain,pooled-sex-stratified,2,Pooled,Female,Low,0.001349263965453096
+T0173,F011,CTQ severity-pain,pooled-sex-stratified,2,Pooled,Female,Moderate,0.04660904976644376
+T0174,F011,CTQ severity-pain,pooled-sex-stratified,2,Pooled,Female,Severe,2.658615769224326e-05
+T0175,F011,CTQ severity-pain,pooled-sex-stratified,2,Pooled,Male,Low,0.529003105927101
+T0176,F011,CTQ severity-pain,pooled-sex-stratified,2,Pooled,Male,Moderate,0.144099448286422
+T0177,F011,CTQ severity-pain,pooled-sex-stratified,2,Pooled,Male,Severe,0.03408547369499626
+T0178,F008,CTQ severity-pain,pooled-combined-sex,2,Pooled,Combined,Low,0.002728096904859867
+T0179,F008,CTQ severity-pain,pooled-combined-sex,2,Pooled,Combined,Moderate,0.005860204848284534
+T0180,F008,CTQ severity-pain,pooled-combined-sex,2,Pooled,Combined,Severe,1.250466392210825e-06
+T0181,F012,CTQ severity-pain,pooled-sex-stratified,3,Pooled,Female,Low,0.001820767132824308
+T0182,F012,CTQ severity-pain,pooled-sex-stratified,3,Pooled,Female,Moderate,0.06514732486323238
+T0183,F012,CTQ severity-pain,pooled-sex-stratified,3,Pooled,Female,Severe,0.0002524961107857049
+T0184,F012,CTQ severity-pain,pooled-sex-stratified,3,Pooled,Male,Low,0.5915421750383716
+T0185,F012,CTQ severity-pain,pooled-sex-stratified,3,Pooled,Male,Moderate,0.1361635375224688
+T0186,F012,CTQ severity-pain,pooled-sex-stratified,3,Pooled,Male,Severe,0.04720588052500685
+T0187,F009,CTQ severity-pain,pooled-combined-sex,3,Pooled,Combined,Low,0.005129017915646683
+T0188,F009,CTQ severity-pain,pooled-combined-sex,3,Pooled,Combined,Moderate,0.007307682285885519
+T0189,F009,CTQ severity-pain,pooled-combined-sex,3,Pooled,Combined,Severe,1.187262821766844e-05
+T0190,F016,CTQ-EAA,cohorts-sex-stratified,1,GS,Female,DUNEDINPACE,0.004360264365470505
+T0191,F016,CTQ-EAA,cohorts-sex-stratified,1,GS,Female,EAA_Grim1v2,0.0001883860031903306
+T0192,F016,CTQ-EAA,cohorts-sex-stratified,1,GS,Female,EAA_Grim2,0.0001782149117322835
+T0193,F016,CTQ-EAA,cohorts-sex-stratified,1,GS,Female,EAA_Hannum,0.270092945522696
+T0194,F016,CTQ-EAA,cohorts-sex-stratified,1,GS,Female,EAA_Horvath,0.6548127594623839
+T0195,F016,CTQ-EAA,cohorts-sex-stratified,1,GS,Female,EAA_Pheno,0.09184555311012187
+T0196,F016,CTQ-EAA,cohorts-sex-stratified,1,GS,Male,DUNEDINPACE,0.01988351662306477
+T0197,F016,CTQ-EAA,cohorts-sex-stratified,1,GS,Male,EAA_Grim1v2,0.08575093630541941
+T0198,F016,CTQ-EAA,cohorts-sex-stratified,1,GS,Male,EAA_Grim2,0.05424733961402485
+T0199,F016,CTQ-EAA,cohorts-sex-stratified,1,GS,Male,EAA_Hannum,0.7123619930900367
+T0200,F016,CTQ-EAA,cohorts-sex-stratified,1,GS,Male,EAA_Horvath,0.9678167676808135
+T0201,F016,CTQ-EAA,cohorts-sex-stratified,1,GS,Male,EAA_Pheno,0.04536891136489409
+T0202,F016,CTQ-EAA,cohorts-sex-stratified,1,MIDUS,Female,DUNEDINPACE,0.0003783544880801552
+T0203,F016,CTQ-EAA,cohorts-sex-stratified,1,MIDUS,Female,EAA_Grim1v2,3.248568259783144e-05
+T0204,F016,CTQ-EAA,cohorts-sex-stratified,1,MIDUS,Female,EAA_Grim2,1.36216538862634e-05
+T0205,F016,CTQ-EAA,cohorts-sex-stratified,1,MIDUS,Female,EAA_Hannum,0.1187117423523557
+T0206,F016,CTQ-EAA,cohorts-sex-stratified,1,MIDUS,Female,EAA_Horvath,0.6230114624713119
+T0207,F016,CTQ-EAA,cohorts-sex-stratified,1,MIDUS,Female,EAA_Pheno,0.01846311372118071
+T0208,F016,CTQ-EAA,cohorts-sex-stratified,1,MIDUS,Male,DUNEDINPACE,0.005379154409006409
+T0209,F016,CTQ-EAA,cohorts-sex-stratified,1,MIDUS,Male,EAA_Grim1v2,0.1461931961290206
+T0210,F016,CTQ-EAA,cohorts-sex-stratified,1,MIDUS,Male,EAA_Grim2,0.0716206336232874
+T0211,F016,CTQ-EAA,cohorts-sex-stratified,1,MIDUS,Male,EAA_Hannum,0.3747874899815175
+T0212,F016,CTQ-EAA,cohorts-sex-stratified,1,MIDUS,Male,EAA_Horvath,0.1876138770991884
+T0213,F016,CTQ-EAA,cohorts-sex-stratified,1,MIDUS,Male,EAA_Pheno,0.08848179408636037
+T0214,F017,CTQ-EAA,cohorts-sex-stratified,2,GS,Female,DUNEDINPACE,0.05858497446462074
+T0215,F017,CTQ-EAA,cohorts-sex-stratified,2,GS,Female,EAA_Grim1v2,0.0006676692465742673
+T0216,F017,CTQ-EAA,cohorts-sex-stratified,2,GS,Female,EAA_Grim2,0.00115930943359948
+T0217,F017,CTQ-EAA,cohorts-sex-stratified,2,GS,Female,EAA_Hannum,0.425176116158186
+T0218,F017,CTQ-EAA,cohorts-sex-stratified,2,GS,Female,EAA_Horvath,0.395434777452609
+T0219,F017,CTQ-EAA,cohorts-sex-stratified,2,GS,Female,EAA_Pheno,0.2306951598493903
+T0220,F017,CTQ-EAA,cohorts-sex-stratified,2,GS,Male,DUNEDINPACE,0.02911940460113491
+T0221,F017,CTQ-EAA,cohorts-sex-stratified,2,GS,Male,EAA_Grim1v2,0.0778408243302922
+T0222,F017,CTQ-EAA,cohorts-sex-stratified,2,GS,Male,EAA_Grim2,0.05641654492210484
+T0223,F017,CTQ-EAA,cohorts-sex-stratified,2,GS,Male,EAA_Hannum,0.6965962987780017
+T0224,F017,CTQ-EAA,cohorts-sex-stratified,2,GS,Male,EAA_Horvath,0.9562641906526896
+T0225,F017,CTQ-EAA,cohorts-sex-stratified,2,GS,Male,EAA_Pheno,0.06015965694520088
+T0226,F017,CTQ-EAA,cohorts-sex-stratified,2,MIDUS,Female,DUNEDINPACE,0.0356464681806723
+T0227,F017,CTQ-EAA,cohorts-sex-stratified,2,MIDUS,Female,EAA_Grim1v2,0.0001958083167386385
+T0228,F017,CTQ-EAA,cohorts-sex-stratified,2,MIDUS,Female,EAA_Grim2,0.0004411587399051472
+T0229,F017,CTQ-EAA,cohorts-sex-stratified,2,MIDUS,Female,EAA_Hannum,0.209066585221133
+T0230,F017,CTQ-EAA,cohorts-sex-stratified,2,MIDUS,Female,EAA_Horvath,0.9785231237948365
+T0231,F017,CTQ-EAA,cohorts-sex-stratified,2,MIDUS,Female,EAA_Pheno,0.1145572571452589
+T0232,F017,CTQ-EAA,cohorts-sex-stratified,2,MIDUS,Male,DUNEDINPACE,0.02500447233395865
+T0233,F017,CTQ-EAA,cohorts-sex-stratified,2,MIDUS,Male,EAA_Grim1v2,0.1788926770848885
+T0234,F017,CTQ-EAA,cohorts-sex-stratified,2,MIDUS,Male,EAA_Grim2,0.1198037411227575
+T0235,F017,CTQ-EAA,cohorts-sex-stratified,2,MIDUS,Male,EAA_Hannum,0.5620221526757381
+T0236,F017,CTQ-EAA,cohorts-sex-stratified,2,MIDUS,Male,EAA_Horvath,0.2213180550522282
+T0237,F017,CTQ-EAA,cohorts-sex-stratified,2,MIDUS,Male,EAA_Pheno,0.1860428274978385
+T0238,F018,CTQ-EAA,cohorts-sex-stratified,3,GS,Female,DUNEDINPACE,0.5494324563836905
+T0239,F018,CTQ-EAA,cohorts-sex-stratified,3,GS,Female,EAA_Grim1v2,0.1265653236812342
+T0240,F018,CTQ-EAA,cohorts-sex-stratified,3,GS,Female,EAA_Grim2,0.1651559511498907
+T0241,F018,CTQ-EAA,cohorts-sex-stratified,3,GS,Female,EAA_Hannum,0.6698689922946195
+T0242,F018,CTQ-EAA,cohorts-sex-stratified,3,GS,Female,EAA_Horvath,0.2963145682904171
+T0243,F018,CTQ-EAA,cohorts-sex-stratified,3,GS,Female,EAA_Pheno,0.5494154666874967
+T0244,F018,CTQ-EAA,cohorts-sex-stratified,3,GS,Male,DUNEDINPACE,0.1516892631368938
+T0245,F018,CTQ-EAA,cohorts-sex-stratified,3,GS,Male,EAA_Grim1v2,0.6993206736298366
+T0246,F018,CTQ-EAA,cohorts-sex-stratified,3,GS,Male,EAA_Grim2,0.4856112070816927
+T0247,F018,CTQ-EAA,cohorts-sex-stratified,3,GS,Male,EAA_Hannum,0.9076740423027855
+T0248,F018,CTQ-EAA,cohorts-sex-stratified,3,GS,Male,EAA_Horvath,0.9912516682750518
+T0249,F018,CTQ-EAA,cohorts-sex-stratified,3,GS,Male,EAA_Pheno,0.1487051438749278
+T0250,F018,CTQ-EAA,cohorts-sex-stratified,3,MIDUS,Female,DUNEDINPACE,0.5213107058685635
+T0251,F018,CTQ-EAA,cohorts-sex-stratified,3,MIDUS,Female,EAA_Grim1v2,0.01972325290872583
+T0252,F018,CTQ-EAA,cohorts-sex-stratified,3,MIDUS,Female,EAA_Grim2,0.03639715380182178
+T0253,F018,CTQ-EAA,cohorts-sex-stratified,3,MIDUS,Female,EAA_Hannum,0.2598806169370194
+T0254,F018,CTQ-EAA,cohorts-sex-stratified,3,MIDUS,Female,EAA_Horvath,0.9680461834005345
+T0255,F018,CTQ-EAA,cohorts-sex-stratified,3,MIDUS,Female,EAA_Pheno,0.2684525691809074
+T0256,F018,CTQ-EAA,cohorts-sex-stratified,3,MIDUS,Male,DUNEDINPACE,0.149428351204639
+T0257,F018,CTQ-EAA,cohorts-sex-stratified,3,MIDUS,Male,EAA_Grim1v2,0.5020505180121746
+T0258,F018,CTQ-EAA,cohorts-sex-stratified,3,MIDUS,Male,EAA_Grim2,0.3105134128066299
+T0259,F018,CTQ-EAA,cohorts-sex-stratified,3,MIDUS,Male,EAA_Hannum,0.6334000695832291
+T0260,F018,CTQ-EAA,cohorts-sex-stratified,3,MIDUS,Male,EAA_Horvath,0.2380198025417697
+T0261,F018,CTQ-EAA,cohorts-sex-stratified,3,MIDUS,Male,EAA_Pheno,0.2526314735941674
+T0262,F013,CTQ-EAA,cohorts-combined-sex,1,GS,Combined,DUNEDINPACE,0.0002351704502994096
+T0263,F013,CTQ-EAA,cohorts-combined-sex,1,GS,Combined,EAA_Grim1v2,3.942986560580531e-05
+T0264,F013,CTQ-EAA,cohorts-combined-sex,1,GS,Combined,EAA_Grim2,2.570570768757301e-05
+T0265,F013,CTQ-EAA,cohorts-combined-sex,1,GS,Combined,EAA_Hannum,0.2277843156668295
+T0266,F013,CTQ-EAA,cohorts-combined-sex,1,GS,Combined,EAA_Horvath,0.7159198671680079
+T0267,F013,CTQ-EAA,cohorts-combined-sex,1,GS,Combined,EAA_Pheno,0.01200051685204504
+T0268,F013,CTQ-EAA,cohorts-combined-sex,1,MIDUS,Combined,DUNEDINPACE,6.054457389518625e-07
+T0269,F013,CTQ-EAA,cohorts-combined-sex,1,MIDUS,Combined,EAA_Grim1v2,1.489684790984345e-05
+T0270,F013,CTQ-EAA,cohorts-combined-sex,1,MIDUS,Combined,EAA_Grim2,1.91096619437616e-06
+T0271,F013,CTQ-EAA,cohorts-combined-sex,1,MIDUS,Combined,EAA_Hannum,0.09455548944386617
+T0272,F013,CTQ-EAA,cohorts-combined-sex,1,MIDUS,Combined,EAA_Horvath,0.2365992904612235
+T0273,F013,CTQ-EAA,cohorts-combined-sex,1,MIDUS,Combined,EAA_Pheno,0.002142067474793007
+T0274,F014,CTQ-EAA,cohorts-combined-sex,2,GS,Combined,DUNEDINPACE,0.005269942771205626
+T0275,F014,CTQ-EAA,cohorts-combined-sex,2,GS,Combined,EAA_Grim1v2,0.0001090474640710054
+T0276,F014,CTQ-EAA,cohorts-combined-sex,2,GS,Combined,EAA_Grim2,0.0001548182668603385
+T0277,F014,CTQ-EAA,cohorts-combined-sex,2,GS,Combined,EAA_Hannum,0.338061490465788
+T0278,F014,CTQ-EAA,cohorts-combined-sex,2,GS,Combined,EAA_Horvath,0.5023140525936197
+T0279,F014,CTQ-EAA,cohorts-combined-sex,2,GS,Combined,EAA_Pheno,0.04749661827120588
+T0280,F014,CTQ-EAA,cohorts-combined-sex,2,MIDUS,Combined,DUNEDINPACE,0.001271735385781426
+T0281,F014,CTQ-EAA,cohorts-combined-sex,2,MIDUS,Combined,EAA_Grim1v2,0.0002109252464069798
+T0282,F014,CTQ-EAA,cohorts-combined-sex,2,MIDUS,Combined,EAA_Grim2,0.0002225645234860312
+T0283,F014,CTQ-EAA,cohorts-combined-sex,2,MIDUS,Combined,EAA_Hannum,0.2650763440078224
+T0284,F014,CTQ-EAA,cohorts-combined-sex,2,MIDUS,Combined,EAA_Horvath,0.4053394935418538
+T0285,F014,CTQ-EAA,cohorts-combined-sex,2,MIDUS,Combined,EAA_Pheno,0.04743772555627591
+T0286,F015,CTQ-EAA,cohorts-combined-sex,3,GS,Combined,DUNEDINPACE,0.2310916534228173
+T0287,F015,CTQ-EAA,cohorts-combined-sex,3,GS,Combined,EAA_Grim1v2,0.1352284131520723
+T0288,F015,CTQ-EAA,cohorts-combined-sex,3,GS,Combined,EAA_Grim2,0.146179974922679
+T0289,F015,CTQ-EAA,cohorts-combined-sex,3,GS,Combined,EAA_Hannum,0.6295639431495526
+T0290,F015,CTQ-EAA,cohorts-combined-sex,3,GS,Combined,EAA_Horvath,0.3830695817691853
+T0291,F015,CTQ-EAA,cohorts-combined-sex,3,GS,Combined,EAA_Pheno,0.2319855817698685
+T0292,F015,CTQ-EAA,cohorts-combined-sex,3,MIDUS,Combined,DUNEDINPACE,0.1316711157917756
+T0293,F015,CTQ-EAA,cohorts-combined-sex,3,MIDUS,Combined,EAA_Grim1v2,0.03033103067792705
+T0294,F015,CTQ-EAA,cohorts-combined-sex,3,MIDUS,Combined,EAA_Grim2,0.02800833455088323
+T0295,F015,CTQ-EAA,cohorts-combined-sex,3,MIDUS,Combined,EAA_Hannum,0.36648903236368
+T0296,F015,CTQ-EAA,cohorts-combined-sex,3,MIDUS,Combined,EAA_Horvath,0.4607991239213509
+T0297,F015,CTQ-EAA,cohorts-combined-sex,3,MIDUS,Combined,EAA_Pheno,0.1339024731643467
+T0298,F019,CTQ-EAA,pooled-combined-sex,1,Pooled,Combined,DunedinPACE,1.022659956717575e-09
+T0299,F019,CTQ-EAA,pooled-combined-sex,1,Pooled,Combined,GrimAge1v2,2.982634139669926e-10
+T0300,F019,CTQ-EAA,pooled-combined-sex,1,Pooled,Combined,GrimAge2,3.286748651021298e-10
+T0301,F019,CTQ-EAA,pooled-combined-sex,1,Pooled,Combined,Hannum,0.03762710014559434
+T0302,F019,CTQ-EAA,pooled-combined-sex,1,Pooled,Combined,Horvath,0.4498796826473994
+T0303,F019,CTQ-EAA,pooled-combined-sex,1,Pooled,Combined,PhenoAge,0.0001099779551843039
+T0304,F020,CTQ-EAA,pooled-combined-sex,2,Pooled,Combined,DunedinPACE,3.625296722242766e-05
+T0305,F020,CTQ-EAA,pooled-combined-sex,2,Pooled,Combined,GrimAge1v2,3.050997676723455e-08
+T0306,F020,CTQ-EAA,pooled-combined-sex,2,Pooled,Combined,GrimAge2,1.321855045421927e-07
+T0307,F020,CTQ-EAA,pooled-combined-sex,2,Pooled,Combined,Hannum,0.08671440585039503
+T0308,F020,CTQ-EAA,pooled-combined-sex,2,Pooled,Combined,Horvath,0.8311554542510895
+T0309,F020,CTQ-EAA,pooled-combined-sex,2,Pooled,Combined,PhenoAge,0.003724610381391269
+T0310,F021,CTQ-EAA,pooled-combined-sex,3,Pooled,Combined,DunedinPACE,0.05234311900795263
+T0311,F021,CTQ-EAA,pooled-combined-sex,3,Pooled,Combined,GrimAge1v2,0.01061884451732475
+T0312,F021,CTQ-EAA,pooled-combined-sex,3,Pooled,Combined,GrimAge2,0.007959721954343246
+T0313,F021,CTQ-EAA,pooled-combined-sex,3,Pooled,Combined,Hannum,0.3551558452776491
+T0314,F021,CTQ-EAA,pooled-combined-sex,3,Pooled,Combined,Horvath,0.8937892399561491
+T0315,F021,CTQ-EAA,pooled-combined-sex,3,Pooled,Combined,PhenoAge,0.05314675550450199
+T0316,F022,CTQ-EAA,pooled-sex-stratified,1,Pooled,Female,DunedinPACE,5.371620383387565e-06
+T0317,F022,CTQ-EAA,pooled-sex-stratified,1,Pooled,Male,DunedinPACE,0.0002750241320843561
+T0318,F022,CTQ-EAA,pooled-sex-stratified,1,Pooled,Female,GrimAge2,9.021742242154573e-09
+T0319,F022,CTQ-EAA,pooled-sex-stratified,1,Pooled,Male,GrimAge2,0.009192476837012187
+T0320,F022,CTQ-EAA,pooled-sex-stratified,1,Pooled,Female,GrimAge1v2,1.916340175434073e-08
+T0321,F022,CTQ-EAA,pooled-sex-stratified,1,Pooled,Male,GrimAge1v2,0.02628369748304094
+T0322,F022,CTQ-EAA,pooled-sex-stratified,1,Pooled,Female,PhenoAge,0.004396836461282971
+T0323,F022,CTQ-EAA,pooled-sex-stratified,1,Pooled,Male,PhenoAge,0.009769581179829734
+T0324,F022,CTQ-EAA,pooled-sex-stratified,1,Pooled,Female,Hannum,0.06023096023035857
+T0325,F022,CTQ-EAA,pooled-sex-stratified,1,Pooled,Male,Hannum,0.3637085083166134
+T0326,F022,CTQ-EAA,pooled-sex-stratified,1,Pooled,Female,Horvath,0.9831401708158849
+T0327,F022,CTQ-EAA,pooled-sex-stratified,1,Pooled,Male,Horvath,0.3061069000078294
+T0328,F023,CTQ-EAA,pooled-sex-stratified,2,Pooled,Female,DunedinPACE,0.00491545464433063
+T0329,F023,CTQ-EAA,pooled-sex-stratified,2,Pooled,Male,DunedinPACE,0.001775738553247974
+T0330,F023,CTQ-EAA,pooled-sex-stratified,2,Pooled,Female,GrimAge2,1.487609528449951e-06
+T0331,F023,CTQ-EAA,pooled-sex-stratified,2,Pooled,Male,GrimAge2,0.0156269983094266
+T0332,F023,CTQ-EAA,pooled-sex-stratified,2,Pooled,Female,GrimAge1v2,4.156968569368757e-07
+T0333,F023,CTQ-EAA,pooled-sex-stratified,2,Pooled,Male,GrimAge1v2,0.03057956178843368
+T0334,F023,CTQ-EAA,pooled-sex-stratified,2,Pooled,Female,PhenoAge,0.05033400276758138
+T0335,F023,CTQ-EAA,pooled-sex-stratified,2,Pooled,Male,PhenoAge,0.04875526195337043
+T0336,F023,CTQ-EAA,pooled-sex-stratified,2,Pooled,Female,Hannum,0.1457399398015298
+T0337,F023,CTQ-EAA,pooled-sex-stratified,2,Pooled,Male,Hannum,0.4878066173378488
+T0338,F023,CTQ-EAA,pooled-sex-stratified,2,Pooled,Female,Horvath,0.5195524713111019
+T0339,F023,CTQ-EAA,pooled-sex-stratified,2,Pooled,Male,Horvath,0.3296729932419373
+T0340,F024,CTQ-EAA,pooled-sex-stratified,3,Pooled,Female,DunedinPACE,0.3786867051357075
+T0341,F024,CTQ-EAA,pooled-sex-stratified,3,Pooled,Male,DunedinPACE,0.0432656395257387
+T0342,F024,CTQ-EAA,pooled-sex-stratified,3,Pooled,Female,GrimAge2,0.01480689130659774
+T0343,F024,CTQ-EAA,pooled-sex-stratified,3,Pooled,Male,GrimAge2,0.2220472121662718
+T0344,F024,CTQ-EAA,pooled-sex-stratified,3,Pooled,Female,GrimAge1v2,0.006768431551469112
+T0345,F024,CTQ-EAA,pooled-sex-stratified,3,Pooled,Male,GrimAge1v2,0.4586983526747244
+T0346,F024,CTQ-EAA,pooled-sex-stratified,3,Pooled,Female,PhenoAge,0.2295602071076179
+T0347,F024,CTQ-EAA,pooled-sex-stratified,3,Pooled,Male,PhenoAge,0.07193510613454235
+T0348,F024,CTQ-EAA,pooled-sex-stratified,3,Pooled,Female,Hannum,0.2723078240935206
+T0349,F024,CTQ-EAA,pooled-sex-stratified,3,Pooled,Male,Hannum,0.6670189720661133
+T0350,F024,CTQ-EAA,pooled-sex-stratified,3,Pooled,Female,Horvath,0.4380449515014204
+T0351,F024,CTQ-EAA,pooled-sex-stratified,3,Pooled,Male,Horvath,0.3725476747589336
+T0352,F004,CTQ severity-EAA,pooled-sex-stratified,1,Pooled,Male,DunedinPACE | Low,0.008088813946296236
+T0353,F004,CTQ severity-EAA,pooled-sex-stratified,1,Pooled,Male,DunedinPACE | Moderate,0.001962353611698942
+T0354,F004,CTQ severity-EAA,pooled-sex-stratified,1,Pooled,Male,DunedinPACE | Severe,0.0210778353481138
+T0355,F004,CTQ severity-EAA,pooled-sex-stratified,1,Pooled,Female,DunedinPACE | Low,0.03204654760163139
+T0356,F004,CTQ severity-EAA,pooled-sex-stratified,1,Pooled,Female,DunedinPACE | Moderate,0.007556693445449625
+T0357,F004,CTQ severity-EAA,pooled-sex-stratified,1,Pooled,Female,DunedinPACE | Severe,1.944933100905821e-06
+T0358,F004,CTQ severity-EAA,pooled-sex-stratified,1,Pooled,Male,GrimAge1v2 | Low,0.3732963813566318
+T0359,F004,CTQ severity-EAA,pooled-sex-stratified,1,Pooled,Male,GrimAge1v2 | Moderate,0.9323540326674483
+T0360,F004,CTQ severity-EAA,pooled-sex-stratified,1,Pooled,Male,GrimAge1v2 | Severe,0.2158271076887851
+T0361,F004,CTQ severity-EAA,pooled-sex-stratified,1,Pooled,Female,GrimAge1v2 | Low,0.04599132523426652
+T0362,F004,CTQ severity-EAA,pooled-sex-stratified,1,Pooled,Female,GrimAge1v2 | Moderate,0.01252916832861795
+T0363,F004,CTQ severity-EAA,pooled-sex-stratified,1,Pooled,Female,GrimAge1v2 | Severe,1.179096698944448e-06
+T0364,F004,CTQ severity-EAA,pooled-sex-stratified,1,Pooled,Male,GrimAge2 | Low,0.2228464474567546
+T0365,F004,CTQ severity-EAA,pooled-sex-stratified,1,Pooled,Male,GrimAge2 | Moderate,0.8525792134805655
+T0366,F004,CTQ severity-EAA,pooled-sex-stratified,1,Pooled,Male,GrimAge2 | Severe,0.09778826876590418
+T0367,F004,CTQ severity-EAA,pooled-sex-stratified,1,Pooled,Female,GrimAge2 | Low,0.1162447179423526
+T0368,F004,CTQ severity-EAA,pooled-sex-stratified,1,Pooled,Female,GrimAge2 | Moderate,0.01008486772064277
+T0369,F004,CTQ severity-EAA,pooled-sex-stratified,1,Pooled,Female,GrimAge2 | Severe,1.023813696710008e-06
+T0370,F004,CTQ severity-EAA,pooled-sex-stratified,1,Pooled,Male,Hannum | Low,0.1036943203204039
+T0371,F004,CTQ severity-EAA,pooled-sex-stratified,1,Pooled,Male,Hannum | Moderate,0.964278244153386
+T0372,F004,CTQ severity-EAA,pooled-sex-stratified,1,Pooled,Male,Hannum | Severe,0.999053007631127
+T0373,F004,CTQ severity-EAA,pooled-sex-stratified,1,Pooled,Female,Hannum | Low,0.9503115529106982
+T0374,F004,CTQ severity-EAA,pooled-sex-stratified,1,Pooled,Female,Hannum | Moderate,0.8451535812131488
+T0375,F004,CTQ severity-EAA,pooled-sex-stratified,1,Pooled,Female,Hannum | Severe,0.3927805597325442
+T0376,F004,CTQ severity-EAA,pooled-sex-stratified,1,Pooled,Male,Horvath | Low,0.01325683181544135
+T0377,F004,CTQ severity-EAA,pooled-sex-stratified,1,Pooled,Male,Horvath | Moderate,0.9883840254066317
+T0378,F004,CTQ severity-EAA,pooled-sex-stratified,1,Pooled,Male,Horvath | Severe,0.7994391712439017
+T0379,F004,CTQ severity-EAA,pooled-sex-stratified,1,Pooled,Female,Horvath | Low,0.5846373368123329
+T0380,F004,CTQ severity-EAA,pooled-sex-stratified,1,Pooled,Female,Horvath | Moderate,0.9933335940595039
+T0381,F004,CTQ severity-EAA,pooled-sex-stratified,1,Pooled,Female,Horvath | Severe,0.6662586773864941
+T0382,F004,CTQ severity-EAA,pooled-sex-stratified,1,Pooled,Male,PhenoAge | Low,0.01519386495137742
+T0383,F004,CTQ severity-EAA,pooled-sex-stratified,1,Pooled,Male,PhenoAge | Moderate,0.02033743756372375
+T0384,F004,CTQ severity-EAA,pooled-sex-stratified,1,Pooled,Male,PhenoAge | Severe,0.05062397535273822
+T0385,F004,CTQ severity-EAA,pooled-sex-stratified,1,Pooled,Female,PhenoAge | Low,0.07262841155356559
+T0386,F004,CTQ severity-EAA,pooled-sex-stratified,1,Pooled,Female,PhenoAge | Moderate,0.1296192049100123
+T0387,F004,CTQ severity-EAA,pooled-sex-stratified,1,Pooled,Female,PhenoAge | Severe,2.045068788625315e-05
+T0388,F001,CTQ severity-EAA,pooled-combined-sex,1,Pooled,Combined,DunedinPACE | Low,0.000185
+T0389,F001,CTQ severity-EAA,pooled-combined-sex,1,Pooled,Combined,DunedinPACE | Moderate,3.85e-05
+T0390,F001,CTQ severity-EAA,pooled-combined-sex,1,Pooled,Combined,DunedinPACE | Severe,6.53e-07
+T0391,F001,CTQ severity-EAA,pooled-combined-sex,1,Pooled,Combined,GrimAge1v2 | Low,0.010787
+T0392,F001,CTQ severity-EAA,pooled-combined-sex,1,Pooled,Combined,GrimAge1v2 | Moderate,0.215896
+T0393,F001,CTQ severity-EAA,pooled-combined-sex,1,Pooled,Combined,GrimAge1v2 | Severe,2.85e-06
+T0394,F001,CTQ severity-EAA,pooled-combined-sex,1,Pooled,Combined,GrimAge2 | Low,0.013747
+T0395,F001,CTQ severity-EAA,pooled-combined-sex,1,Pooled,Combined,GrimAge2 | Moderate,0.033746
+T0396,F001,CTQ severity-EAA,pooled-combined-sex,1,Pooled,Combined,GrimAge2 | Severe,4.83e-07
+T0397,F001,CTQ severity-EAA,pooled-combined-sex,1,Pooled,Combined,Hannum | Low,0.397145
+T0398,F001,CTQ severity-EAA,pooled-combined-sex,1,Pooled,Combined,Hannum | Moderate,0.981882
+T0399,F001,CTQ severity-EAA,pooled-combined-sex,1,Pooled,Combined,Hannum | Severe,0.721922
+T0400,F001,CTQ severity-EAA,pooled-combined-sex,1,Pooled,Combined,Horvath | Low,0.300292
+T0401,F001,CTQ severity-EAA,pooled-combined-sex,1,Pooled,Combined,Horvath | Moderate,0.987391
+T0402,F001,CTQ severity-EAA,pooled-combined-sex,1,Pooled,Combined,Horvath | Severe,0.720543
+T0403,F001,CTQ severity-EAA,pooled-combined-sex,1,Pooled,Combined,PhenoAge | Low,0.00071
+T0404,F001,CTQ severity-EAA,pooled-combined-sex,1,Pooled,Combined,PhenoAge | Moderate,0.004439
+T0405,F001,CTQ severity-EAA,pooled-combined-sex,1,Pooled,Combined,PhenoAge | Severe,1.09e-06
+T0406,F005,CTQ severity-EAA,pooled-sex-stratified,2,Pooled,Male,DunedinPACE | Low,0.008171637474129634
+T0407,F005,CTQ severity-EAA,pooled-sex-stratified,2,Pooled,Male,DunedinPACE | Moderate,0.02226672475750391
+T0408,F005,CTQ severity-EAA,pooled-sex-stratified,2,Pooled,Male,DunedinPACE | Severe,0.02619775892512943
+T0409,F005,CTQ severity-EAA,pooled-sex-stratified,2,Pooled,Female,DunedinPACE | Low,0.1616483367076222
+T0410,F005,CTQ severity-EAA,pooled-sex-stratified,2,Pooled,Female,DunedinPACE | Moderate,0.1609461863148836
+T0411,F005,CTQ severity-EAA,pooled-sex-stratified,2,Pooled,Female,DunedinPACE | Severe,0.0004241207692097237
+T0412,F005,CTQ severity-EAA,pooled-sex-stratified,2,Pooled,Male,GrimAge1v2 | Low,0.3761205706676854
+T0413,F005,CTQ severity-EAA,pooled-sex-stratified,2,Pooled,Male,GrimAge1v2 | Moderate,0.9172773060345621
+T0414,F005,CTQ severity-EAA,pooled-sex-stratified,2,Pooled,Male,GrimAge1v2 | Severe,0.2194032763785041
+T0415,F005,CTQ severity-EAA,pooled-sex-stratified,2,Pooled,Female,GrimAge1v2 | Low,0.0782316943810748
+T0416,F005,CTQ severity-EAA,pooled-sex-stratified,2,Pooled,Female,GrimAge1v2 | Moderate,0.03548815062913813
+T0417,F005,CTQ severity-EAA,pooled-sex-stratified,2,Pooled,Female,GrimAge1v2 | Severe,8.784511882242718e-06
+T0418,F005,CTQ severity-EAA,pooled-sex-stratified,2,Pooled,Male,GrimAge2 | Low,0.2316033747591916
+T0419,F005,CTQ severity-EAA,pooled-sex-stratified,2,Pooled,Male,GrimAge2 | Moderate,0.9561568662405642
+T0420,F005,CTQ severity-EAA,pooled-sex-stratified,2,Pooled,Male,GrimAge2 | Severe,0.1070615792265892
+T0421,F005,CTQ severity-EAA,pooled-sex-stratified,2,Pooled,Female,GrimAge2 | Low,0.2569928724537273
+T0422,F005,CTQ severity-EAA,pooled-sex-stratified,2,Pooled,Female,GrimAge2 | Moderate,0.06543648523757106
+T0423,F005,CTQ severity-EAA,pooled-sex-stratified,2,Pooled,Female,GrimAge2 | Severe,3.267308092302912e-05
+T0424,F005,CTQ severity-EAA,pooled-sex-stratified,2,Pooled,Male,Hannum | Low,0.1090411187755276
+T0425,F005,CTQ severity-EAA,pooled-sex-stratified,2,Pooled,Male,Hannum | Moderate,0.8427088391898668
+T0426,F005,CTQ severity-EAA,pooled-sex-stratified,2,Pooled,Male,Hannum | Severe,0.9958439933261044
+T0427,F005,CTQ severity-EAA,pooled-sex-stratified,2,Pooled,Female,Hannum | Low,0.8826764876955887
+T0428,F005,CTQ severity-EAA,pooled-sex-stratified,2,Pooled,Female,Hannum | Moderate,0.9611229326125914
+T0429,F005,CTQ severity-EAA,pooled-sex-stratified,2,Pooled,Female,Hannum | Severe,0.598255683387025
+T0430,F005,CTQ severity-EAA,pooled-sex-stratified,2,Pooled,Male,Horvath | Low,0.01363203005231317
+T0431,F005,CTQ severity-EAA,pooled-sex-stratified,2,Pooled,Male,Horvath | Moderate,0.9974088470940456
+T0432,F005,CTQ severity-EAA,pooled-sex-stratified,2,Pooled,Male,Horvath | Severe,0.807809735007315
+T0433,F005,CTQ severity-EAA,pooled-sex-stratified,2,Pooled,Female,Horvath | Low,0.4142725808277695
+T0434,F005,CTQ severity-EAA,pooled-sex-stratified,2,Pooled,Female,Horvath | Moderate,0.9616780148727663
+T0435,F005,CTQ severity-EAA,pooled-sex-stratified,2,Pooled,Female,Horvath | Severe,0.9193156305920738
+T0436,F005,CTQ severity-EAA,pooled-sex-stratified,2,Pooled,Male,PhenoAge | Low,0.01604379884821561
+T0437,F005,CTQ severity-EAA,pooled-sex-stratified,2,Pooled,Male,PhenoAge | Moderate,0.08166270570526057
+T0438,F005,CTQ severity-EAA,pooled-sex-stratified,2,Pooled,Male,PhenoAge | Severe,0.05953949550978699
+T0439,F005,CTQ severity-EAA,pooled-sex-stratified,2,Pooled,Female,PhenoAge | Low,0.1450318065275984
+T0440,F005,CTQ severity-EAA,pooled-sex-stratified,2,Pooled,Female,PhenoAge | Moderate,0.3418433706063977
+T0441,F005,CTQ severity-EAA,pooled-sex-stratified,2,Pooled,Female,PhenoAge | Severe,0.0002389151032224923
+T0442,F002,CTQ severity-EAA,pooled-combined-sex,2,Pooled,Combined,DunedinPACE | Low,0.001477354569566325
+T0443,F002,CTQ severity-EAA,pooled-combined-sex,2,Pooled,Combined,DunedinPACE | Moderate,0.007207918570022009
+T0444,F002,CTQ severity-EAA,pooled-combined-sex,2,Pooled,Combined,DunedinPACE | Severe,9.21378913945059e-05
+T0445,F002,CTQ severity-EAA,pooled-combined-sex,2,Pooled,Combined,GrimAge1v2 | Low,0.01680224734250646
+T0446,F002,CTQ severity-EAA,pooled-combined-sex,2,Pooled,Combined,GrimAge1v2 | Moderate,0.3738565406242415
+T0447,F002,CTQ severity-EAA,pooled-combined-sex,2,Pooled,Combined,GrimAge1v2 | Severe,1.0746464209066e-05
+T0448,F002,CTQ severity-EAA,pooled-combined-sex,2,Pooled,Combined,GrimAge2 | Low,0.03237767206768516
+T0449,F002,CTQ severity-EAA,pooled-combined-sex,2,Pooled,Combined,GrimAge2 | Moderate,0.169107203812466
+T0450,F002,CTQ severity-EAA,pooled-combined-sex,2,Pooled,Combined,GrimAge2 | Severe,7.379623957692871e-06
+T0451,F002,CTQ severity-EAA,pooled-combined-sex,2,Pooled,Combined,Hannum | Low,0.5181245715381071
+T0452,F002,CTQ severity-EAA,pooled-combined-sex,2,Pooled,Combined,Hannum | Moderate,0.9811956306232239
+T0453,F002,CTQ severity-EAA,pooled-combined-sex,2,Pooled,Combined,Hannum | Severe,0.9059818982611466
+T0454,F002,CTQ severity-EAA,pooled-combined-sex,2,Pooled,Combined,Horvath | Low,0.4116549393943272
+T0455,F002,CTQ severity-EAA,pooled-combined-sex,2,Pooled,Combined,Horvath | Moderate,0.9715034421291304
+T0456,F002,CTQ severity-EAA,pooled-combined-sex,2,Pooled,Combined,Horvath | Severe,0.9096295046894707
+T0457,F002,CTQ severity-EAA,pooled-combined-sex,2,Pooled,Combined,PhenoAge | Low,0.002175964054845547
+T0458,F002,CTQ severity-EAA,pooled-combined-sex,2,Pooled,Combined,PhenoAge | Moderate,0.0376261389903958
+T0459,F002,CTQ severity-EAA,pooled-combined-sex,2,Pooled,Combined,PhenoAge | Severe,1.714005774200444e-05
+T0460,F006,CTQ severity-EAA,pooled-sex-stratified,3,Pooled,Male,DunedinPACE | Low,0.07343791027656477
+T0461,F006,CTQ severity-EAA,pooled-sex-stratified,3,Pooled,Male,DunedinPACE | Moderate,0.005840132705933643
+T0462,F006,CTQ severity-EAA,pooled-sex-stratified,3,Pooled,Male,DunedinPACE | Severe,0.3643845673455707
+T0463,F006,CTQ severity-EAA,pooled-sex-stratified,3,Pooled,Female,DunedinPACE | Low,0.2075327771924014
+T0464,F006,CTQ severity-EAA,pooled-sex-stratified,3,Pooled,Female,DunedinPACE | Moderate,0.4204900143238572
+T0465,F006,CTQ severity-EAA,pooled-sex-stratified,3,Pooled,Female,DunedinPACE | Severe,0.03931831429137578
+T0466,F006,CTQ severity-EAA,pooled-sex-stratified,3,Pooled,Male,GrimAge1v2 | Low,0.9939066870241205
+T0467,F006,CTQ severity-EAA,pooled-sex-stratified,3,Pooled,Male,GrimAge1v2 | Moderate,0.9895224152476836
+T0468,F006,CTQ severity-EAA,pooled-sex-stratified,3,Pooled,Male,GrimAge1v2 | Severe,0.9985857020166532
+T0469,F006,CTQ severity-EAA,pooled-sex-stratified,3,Pooled,Female,GrimAge1v2 | Low,0.02871393224619689
+T0470,F006,CTQ severity-EAA,pooled-sex-stratified,3,Pooled,Female,GrimAge1v2 | Moderate,0.03791653573984721
+T0471,F006,CTQ severity-EAA,pooled-sex-stratified,3,Pooled,Female,GrimAge1v2 | Severe,0.01370746215622565
+T0472,F006,CTQ severity-EAA,pooled-sex-stratified,3,Pooled,Male,GrimAge2 | Low,0.8518786739294897
+T0473,F006,CTQ severity-EAA,pooled-sex-stratified,3,Pooled,Male,GrimAge2 | Moderate,0.5807585075187138
+T0474,F006,CTQ severity-EAA,pooled-sex-stratified,3,Pooled,Male,GrimAge2 | Severe,0.8354467064858091
+T0475,F006,CTQ severity-EAA,pooled-sex-stratified,3,Pooled,Female,GrimAge2 | Low,0.2653212005639236
+T0476,F006,CTQ severity-EAA,pooled-sex-stratified,3,Pooled,Female,GrimAge2 | Moderate,0.1156804250797874
+T0477,F006,CTQ severity-EAA,pooled-sex-stratified,3,Pooled,Female,GrimAge2 | Severe,0.03665986430895996
+T0478,F006,CTQ severity-EAA,pooled-sex-stratified,3,Pooled,Male,Hannum | Low,0.1539098318507015
+T0479,F006,CTQ severity-EAA,pooled-sex-stratified,3,Pooled,Male,Hannum | Moderate,0.862957470294548
+T0480,F006,CTQ severity-EAA,pooled-sex-stratified,3,Pooled,Male,Hannum | Severe,0.9593573421511377
+T0481,F006,CTQ severity-EAA,pooled-sex-stratified,3,Pooled,Female,Hannum | Low,0.8531231705615461
+T0482,F006,CTQ severity-EAA,pooled-sex-stratified,3,Pooled,Female,Hannum | Moderate,0.9833857549877039
+T0483,F006,CTQ severity-EAA,pooled-sex-stratified,3,Pooled,Female,Hannum | Severe,0.8047933644455412
+T0484,F006,CTQ severity-EAA,pooled-sex-stratified,3,Pooled,Male,Horvath | Low,0.01607019664429243
+T0485,F006,CTQ severity-EAA,pooled-sex-stratified,3,Pooled,Male,Horvath | Moderate,0.9965026610631592
+T0486,F006,CTQ severity-EAA,pooled-sex-stratified,3,Pooled,Male,Horvath | Severe,0.8422281080548362
+T0487,F006,CTQ severity-EAA,pooled-sex-stratified,3,Pooled,Female,Horvath | Low,0.3964692289076474
+T0488,F006,CTQ severity-EAA,pooled-sex-stratified,3,Pooled,Female,Horvath | Moderate,0.9472376741914822
+T0489,F006,CTQ severity-EAA,pooled-sex-stratified,3,Pooled,Female,Horvath | Severe,0.9694723188103894
+T0490,F006,CTQ severity-EAA,pooled-sex-stratified,3,Pooled,Male,PhenoAge | Low,0.03594127950400328
+T0491,F006,CTQ severity-EAA,pooled-sex-stratified,3,Pooled,Male,PhenoAge | Moderate,0.05968229247134427
+T0492,F006,CTQ severity-EAA,pooled-sex-stratified,3,Pooled,Male,PhenoAge | Severe,0.1448945811603819
+T0493,F006,CTQ severity-EAA,pooled-sex-stratified,3,Pooled,Female,PhenoAge | Low,0.1701667215851747
+T0494,F006,CTQ severity-EAA,pooled-sex-stratified,3,Pooled,Female,PhenoAge | Moderate,0.427719473030567
+T0495,F006,CTQ severity-EAA,pooled-sex-stratified,3,Pooled,Female,PhenoAge | Severe,0.001684773944409468
+T0496,F003,CTQ severity-EAA,pooled-combined-sex,3,Pooled,Combined,DunedinPACE | Low,0.01319593202225766
+T0497,F003,CTQ severity-EAA,pooled-combined-sex,3,Pooled,Combined,DunedinPACE | Moderate,0.01066397150005249
+T0498,F003,CTQ severity-EAA,pooled-combined-sex,3,Pooled,Combined,DunedinPACE | Severe,0.02263332713248589
+T0499,F003,CTQ severity-EAA,pooled-combined-sex,3,Pooled,Combined,GrimAge1v2 | Low,0.1071305501272672
+T0500,F003,CTQ severity-EAA,pooled-combined-sex,3,Pooled,Combined,GrimAge1v2 | Moderate,0.1803170820834155
+T0501,F003,CTQ severity-EAA,pooled-combined-sex,3,Pooled,Combined,GrimAge1v2 | Severe,0.006137973111837169
+T0502,F003,CTQ severity-EAA,pooled-combined-sex,3,Pooled,Combined,GrimAge2 | Low,0.2193950155623556
+T0503,F003,CTQ severity-EAA,pooled-combined-sex,3,Pooled,Combined,GrimAge2 | Moderate,0.04883421500086649
+T0504,F003,CTQ severity-EAA,pooled-combined-sex,3,Pooled,Combined,GrimAge2 | Severe,0.004151462097516823
+T0505,F003,CTQ severity-EAA,pooled-combined-sex,3,Pooled,Combined,Hannum | Low,0.6424168445000875
+T0506,F003,CTQ severity-EAA,pooled-combined-sex,3,Pooled,Combined,Hannum | Moderate,0.9756458290676653
+T0507,F003,CTQ severity-EAA,pooled-combined-sex,3,Pooled,Combined,Hannum | Severe,0.9954273318371006
+T0508,F003,CTQ severity-EAA,pooled-combined-sex,3,Pooled,Combined,Horvath | Low,0.4798173322911138
+T0509,F003,CTQ severity-EAA,pooled-combined-sex,3,Pooled,Combined,Horvath | Moderate,0.9677759988229855
+T0510,F003,CTQ severity-EAA,pooled-combined-sex,3,Pooled,Combined,Horvath | Severe,0.973669288261855
+T0511,F003,CTQ severity-EAA,pooled-combined-sex,3,Pooled,Combined,PhenoAge | Low,0.00539771397688682
+T0512,F003,CTQ severity-EAA,pooled-combined-sex,3,Pooled,Combined,PhenoAge | Moderate,0.03875311961578198
+T0513,F003,CTQ severity-EAA,pooled-combined-sex,3,Pooled,Combined,PhenoAge | Severe,0.0001724903995102833
+T0514,F052,EAA-pain,cohorts-sex-stratified,1,MIDUS,Female,EAA_Grim1v2,0.001184720680671105
+T0515,F052,EAA-pain,cohorts-sex-stratified,1,GS,Female,EAA_Pheno,0.001491361238885866
+T0516,F052,EAA-pain,cohorts-sex-stratified,1,MIDUS,Female,EAA_Grim2,0.003373980886517221
+T0517,F052,EAA-pain,cohorts-sex-stratified,1,GS,Female,EAA_Grim1v2,0.02514083255884657
+T0518,F052,EAA-pain,cohorts-sex-stratified,1,GS,Female,EAA_Grim2,0.06261009695723346
+T0519,F052,EAA-pain,cohorts-sex-stratified,1,GS,Female,EAA_Hannum,0.09849025943002467
+T0520,F052,EAA-pain,cohorts-sex-stratified,1,MIDUS,Male,EAA_Pheno,0.1753375991544878
+T0521,F052,EAA-pain,cohorts-sex-stratified,1,GS,Female,DUNEDINPACE,0.2029281822298557
+T0522,F052,EAA-pain,cohorts-sex-stratified,1,GS,Female,EAA_Horvath,0.2079739246476346
+T0523,F052,EAA-pain,cohorts-sex-stratified,1,MIDUS,Female,DUNEDINPACE,0.2247198327557909
+T0524,F052,EAA-pain,cohorts-sex-stratified,1,MIDUS,Male,EAA_Horvath,0.2404635464379468
+T0525,F052,EAA-pain,cohorts-sex-stratified,1,MIDUS,Female,EAA_Horvath,0.2918132136576393
+T0526,F052,EAA-pain,cohorts-sex-stratified,1,GS,Male,EAA_Pheno,0.3179279746810707
+T0527,F052,EAA-pain,cohorts-sex-stratified,1,GS,Male,EAA_Hannum,0.3259380004289084
+T0528,F052,EAA-pain,cohorts-sex-stratified,1,GS,Male,DUNEDINPACE,0.3304446410722215
+T0529,F052,EAA-pain,cohorts-sex-stratified,1,MIDUS,Male,DUNEDINPACE,0.4377091836053304
+T0530,F052,EAA-pain,cohorts-sex-stratified,1,GS,Male,EAA_Grim2,0.4644332368691557
+T0531,F052,EAA-pain,cohorts-sex-stratified,1,MIDUS,Female,EAA_Hannum,0.5102112533496552
+T0532,F052,EAA-pain,cohorts-sex-stratified,1,MIDUS,Male,EAA_Grim1v2,0.6333829125362567
+T0533,F052,EAA-pain,cohorts-sex-stratified,1,MIDUS,Female,EAA_Pheno,0.6583713852896351
+T0534,F052,EAA-pain,cohorts-sex-stratified,1,MIDUS,Male,EAA_Grim2,0.6761523651530812
+T0535,F052,EAA-pain,cohorts-sex-stratified,1,GS,Male,EAA_Grim1v2,0.7588546987794825
+T0536,F052,EAA-pain,cohorts-sex-stratified,1,GS,Male,EAA_Horvath,0.7640955938649099
+T0537,F052,EAA-pain,cohorts-sex-stratified,1,MIDUS,Male,EAA_Hannum,0.9804666289382253
+T0538,F053,EAA-pain,cohorts-sex-stratified,2,GS,Female,EAA_Pheno,0.0004291842044284036
+T0539,F053,EAA-pain,cohorts-sex-stratified,2,MIDUS,Female,EAA_Grim1v2,0.003867230721098097
+T0540,F053,EAA-pain,cohorts-sex-stratified,2,MIDUS,Female,EAA_Grim2,0.02847335008242927
+T0541,F053,EAA-pain,cohorts-sex-stratified,2,GS,Female,EAA_Grim1v2,0.04163727419927471
+T0542,F053,EAA-pain,cohorts-sex-stratified,2,GS,Female,EAA_Hannum,0.0649017683786031
+T0543,F053,EAA-pain,cohorts-sex-stratified,2,GS,Female,EAA_Grim2,0.1194530432920458
+T0544,F053,EAA-pain,cohorts-sex-stratified,2,GS,Female,EAA_Horvath,0.1335049069744649
+T0545,F053,EAA-pain,cohorts-sex-stratified,2,MIDUS,Female,EAA_Horvath,0.1343295907284958
+T0546,F053,EAA-pain,cohorts-sex-stratified,2,MIDUS,Male,EAA_Pheno,0.2510561169674282
+T0547,F053,EAA-pain,cohorts-sex-stratified,2,MIDUS,Male,EAA_Horvath,0.2641757094707889
+T0548,F053,EAA-pain,cohorts-sex-stratified,2,GS,Male,EAA_Hannum,0.3348662885749908
+T0549,F053,EAA-pain,cohorts-sex-stratified,2,GS,Male,EAA_Grim2,0.4876255561993705
+T0550,F053,EAA-pain,cohorts-sex-stratified,2,GS,Male,EAA_Pheno,0.4894545536954092
+T0551,F053,EAA-pain,cohorts-sex-stratified,2,GS,Female,DUNEDINPACE,0.5143412487891585
+T0552,F053,EAA-pain,cohorts-sex-stratified,2,GS,Male,DUNEDINPACE,0.5573334996607238
+T0553,F053,EAA-pain,cohorts-sex-stratified,2,MIDUS,Male,DUNEDINPACE,0.6308864361394106
+T0554,F053,EAA-pain,cohorts-sex-stratified,2,MIDUS,Male,EAA_Grim1v2,0.6851132135885794
+T0555,F053,EAA-pain,cohorts-sex-stratified,2,GS,Male,EAA_Grim1v2,0.6898771274056192
+T0556,F053,EAA-pain,cohorts-sex-stratified,2,MIDUS,Female,EAA_Hannum,0.7014199178648224
+T0557,F053,EAA-pain,cohorts-sex-stratified,2,MIDUS,Female,DUNEDINPACE,0.7061946741817084
+T0558,F053,EAA-pain,cohorts-sex-stratified,2,MIDUS,Female,EAA_Pheno,0.7436659546833406
+T0559,F053,EAA-pain,cohorts-sex-stratified,2,GS,Male,EAA_Horvath,0.7813091153841883
+T0560,F053,EAA-pain,cohorts-sex-stratified,2,MIDUS,Male,EAA_Grim2,0.78874610186264
+T0561,F053,EAA-pain,cohorts-sex-stratified,2,MIDUS,Male,EAA_Hannum,0.8687514935761035
+T0562,F054,EAA-pain,cohorts-sex-stratified,3,GS,Female,EAA_Pheno,4.758642133009485e-05
+T0563,F054,EAA-pain,cohorts-sex-stratified,3,MIDUS,Female,DUNEDINPACE,0.009402513617001517
+T0564,F054,EAA-pain,cohorts-sex-stratified,3,MIDUS,Female,EAA_Grim2,0.02736501469122735
+T0565,F054,EAA-pain,cohorts-sex-stratified,3,GS,Female,EAA_Hannum,0.03043326438898872
+T0566,F054,EAA-pain,cohorts-sex-stratified,3,MIDUS,Female,EAA_Grim1v2,0.05761915309700189
+T0567,F054,EAA-pain,cohorts-sex-stratified,3,MIDUS,Female,EAA_Horvath,0.09549498890207771
+T0568,F054,EAA-pain,cohorts-sex-stratified,3,GS,Female,EAA_Horvath,0.1016940937973461
+T0569,F054,EAA-pain,cohorts-sex-stratified,3,GS,Male,EAA_Grim1v2,0.1304216400673104
+T0570,F054,EAA-pain,cohorts-sex-stratified,3,MIDUS,Male,EAA_Grim2,0.1680637100141876
+T0571,F054,EAA-pain,cohorts-sex-stratified,3,MIDUS,Male,EAA_Grim1v2,0.1685244823349657
+T0572,F054,EAA-pain,cohorts-sex-stratified,3,MIDUS,Female,EAA_Pheno,0.1877211165266836
+T0573,F054,EAA-pain,cohorts-sex-stratified,3,GS,Male,EAA_Hannum,0.2441995427438689
+T0574,F054,EAA-pain,cohorts-sex-stratified,3,MIDUS,Male,EAA_Horvath,0.2935423957008955
+T0575,F054,EAA-pain,cohorts-sex-stratified,3,MIDUS,Male,EAA_Pheno,0.3753510900047922
+T0576,F054,EAA-pain,cohorts-sex-stratified,3,GS,Male,EAA_Grim2,0.4169015449525805
+T0577,F054,EAA-pain,cohorts-sex-stratified,3,GS,Female,EAA_Grim2,0.7122450027777607
+T0578,F054,EAA-pain,cohorts-sex-stratified,3,GS,Male,EAA_Pheno,0.7253346586325728
+T0579,F054,EAA-pain,cohorts-sex-stratified,3,GS,Male,EAA_Horvath,0.7374400912657921
+T0580,F054,EAA-pain,cohorts-sex-stratified,3,MIDUS,Male,EAA_Hannum,0.7519127981088272
+T0581,F054,EAA-pain,cohorts-sex-stratified,3,GS,Female,EAA_Grim1v2,0.8215146162518359
+T0582,F054,EAA-pain,cohorts-sex-stratified,3,MIDUS,Female,EAA_Hannum,0.8795714723045143
+T0583,F054,EAA-pain,cohorts-sex-stratified,3,GS,Male,DUNEDINPACE,0.8939560603700174
+T0584,F054,EAA-pain,cohorts-sex-stratified,3,GS,Female,DUNEDINPACE,0.9357536403501916
+T0585,F054,EAA-pain,cohorts-sex-stratified,3,MIDUS,Male,DUNEDINPACE,0.9363411885964232
+T0586,F049,EAA-pain,cohorts-combined-sex,1,GS,Combined,DunedinPACE,0.1093443780780955
+T0587,F049,EAA-pain,cohorts-combined-sex,1,GS,Combined,GrimAge1v2,0.04851188368742448
+T0588,F049,EAA-pain,cohorts-combined-sex,1,GS,Combined,GrimAge2,0.05363791550229949
+T0589,F049,EAA-pain,cohorts-combined-sex,1,GS,Combined,Hannum,0.05203449013633874
+T0590,F049,EAA-pain,cohorts-combined-sex,1,GS,Combined,Horvath,0.2406515472871594
+T0591,F049,EAA-pain,cohorts-combined-sex,1,GS,Combined,PhenoAge,0.06627701075743765
+T0592,F049,EAA-pain,cohorts-combined-sex,1,MIDUS,Combined,DunedinPACE,0.04568572336837267
+T0593,F049,EAA-pain,cohorts-combined-sex,1,MIDUS,Combined,GrimAge1v2,0.009878851646631319
+T0594,F049,EAA-pain,cohorts-combined-sex,1,MIDUS,Combined,GrimAge2,0.01945207293080528
+T0595,F049,EAA-pain,cohorts-combined-sex,1,MIDUS,Combined,Hannum,0.6451719638697824
+T0596,F049,EAA-pain,cohorts-combined-sex,1,MIDUS,Combined,Horvath,0.9200575636414131
+T0597,F049,EAA-pain,cohorts-combined-sex,1,MIDUS,Combined,PhenoAge,0.2220452742481826
+T0598,F050,EAA-pain,cohorts-combined-sex,2,GS,Combined,DunedinPACE,0.4321747698374239
+T0599,F050,EAA-pain,cohorts-combined-sex,2,GS,Combined,GrimAge1v2,0.07705962166054904
+T0600,F050,EAA-pain,cohorts-combined-sex,2,GS,Combined,GrimAge2,0.1163448458316275
+T0601,F050,EAA-pain,cohorts-combined-sex,2,GS,Combined,Hannum,0.03070054268367867
+T0602,F050,EAA-pain,cohorts-combined-sex,2,GS,Combined,Horvath,0.1518710105688826
+T0603,F050,EAA-pain,cohorts-combined-sex,2,GS,Combined,PhenoAge,0.01979441368752528
+T0604,F050,EAA-pain,cohorts-combined-sex,2,MIDUS,Combined,DunedinPACE,0.4335827734740376
+T0605,F050,EAA-pain,cohorts-combined-sex,2,MIDUS,Combined,GrimAge1v2,0.0236706286882373
+T0606,F050,EAA-pain,cohorts-combined-sex,2,MIDUS,Combined,GrimAge2,0.08880908532861237
+T0607,F050,EAA-pain,cohorts-combined-sex,2,MIDUS,Combined,Hannum,0.9463242474046325
+T0608,F050,EAA-pain,cohorts-combined-sex,2,MIDUS,Combined,Horvath,0.8153121828341083
+T0609,F050,EAA-pain,cohorts-combined-sex,2,MIDUS,Combined,PhenoAge,0.6094524174587015
+T0610,F051,EAA-pain,cohorts-combined-sex,3,GS,Combined,DunedinPACE,0.9250401179211764
+T0611,F051,EAA-pain,cohorts-combined-sex,3,GS,Combined,GrimAge1v2,0.3859328120860444
+T0612,F051,EAA-pain,cohorts-combined-sex,3,GS,Combined,GrimAge2,0.3386040791705017
+T0613,F051,EAA-pain,cohorts-combined-sex,3,GS,Combined,Hannum,0.01098531242752564
+T0614,F051,EAA-pain,cohorts-combined-sex,3,GS,Combined,Horvath,0.114806453778784
+T0615,F051,EAA-pain,cohorts-combined-sex,3,GS,Combined,PhenoAge,0.002538104499102193
+T0616,F051,EAA-pain,cohorts-combined-sex,3,MIDUS,Combined,DunedinPACE,0.08571654184377797
+T0617,F051,EAA-pain,cohorts-combined-sex,3,MIDUS,Combined,GrimAge1v2,0.01158035848390288
+T0618,F051,EAA-pain,cohorts-combined-sex,3,MIDUS,Combined,GrimAge2,0.006580841696687634
+T0619,F051,EAA-pain,cohorts-combined-sex,3,MIDUS,Combined,Hannum,0.8042155546213919
+T0620,F051,EAA-pain,cohorts-combined-sex,3,MIDUS,Combined,Horvath,0.6684018015560206
+T0621,F051,EAA-pain,cohorts-combined-sex,3,MIDUS,Combined,PhenoAge,0.7124604035007338
+T0622,F055,EAA-pain,pooled-combined-sex,1,Pooled,Combined,DunedinPACE,0.04416460842422509
+T0623,F055,EAA-pain,pooled-combined-sex,1,Pooled,Combined,GrimAge1v2,0.001382262738764073
+T0624,F055,EAA-pain,pooled-combined-sex,1,Pooled,Combined,GrimAge2,0.002864927884267399
+T0625,F055,EAA-pain,pooled-combined-sex,1,Pooled,Combined,Hannum,0.2818335137840675
+T0626,F055,EAA-pain,pooled-combined-sex,1,Pooled,Combined,Horvath,0.4872185939984242
+T0627,F055,EAA-pain,pooled-combined-sex,1,Pooled,Combined,PhenoAge,0.6930559776342671
+T0628,F056,EAA-pain,pooled-combined-sex,2,Pooled,Combined,DunedinPACE,0.6026228338678528
+T0629,F056,EAA-pain,pooled-combined-sex,2,Pooled,Combined,GrimAge1v2,0.003686182624908385
+T0630,F056,EAA-pain,pooled-combined-sex,2,Pooled,Combined,GrimAge2,0.02173319600686252
+T0631,F056,EAA-pain,pooled-combined-sex,2,Pooled,Combined,Hannum,0.1571940810067309
+T0632,F056,EAA-pain,pooled-combined-sex,2,Pooled,Combined,Horvath,0.2306457507511572
+T0633,F056,EAA-pain,pooled-combined-sex,2,Pooled,Combined,PhenoAge,0.2270278384746098
+T0634,F057,EAA-pain,pooled-combined-sex,3,Pooled,Combined,DunedinPACE,0.1749934029411453
+T0635,F057,EAA-pain,pooled-combined-sex,3,Pooled,Combined,GrimAge1v2,0.01471034109424219
+T0636,F057,EAA-pain,pooled-combined-sex,3,Pooled,Combined,GrimAge2,0.007032502276762997
+T0637,F057,EAA-pain,pooled-combined-sex,3,Pooled,Combined,Hannum,0.04718295335425182
+T0638,F057,EAA-pain,pooled-combined-sex,3,Pooled,Combined,Horvath,0.1641802053220005
+T0639,F057,EAA-pain,pooled-combined-sex,3,Pooled,Combined,PhenoAge,0.0223392643370246
+T0640,F058,EAA-pain,pooled-sex-stratified,1,Pooled,Male,DunedinPACE,0.224867276592559
+T0641,F058,EAA-pain,pooled-sex-stratified,1,Pooled,Female,DunedinPACE,0.0700738570901025
+T0642,F058,EAA-pain,pooled-sex-stratified,1,Pooled,Male,GrimAge2,0.4142859853214296
+T0643,F058,EAA-pain,pooled-sex-stratified,1,Pooled,Female,GrimAge2,0.0008687407802661085
+T0644,F058,EAA-pain,pooled-sex-stratified,1,Pooled,Male,GrimAge1v2,0.5750386553344324
+T0645,F058,EAA-pain,pooled-sex-stratified,1,Pooled,Female,GrimAge1v2,0.0001281928084986284
+T0646,F058,EAA-pain,pooled-sex-stratified,1,Pooled,Male,PhenoAge,0.08935471671397699
+T0647,F058,EAA-pain,pooled-sex-stratified,1,Pooled,Female,PhenoAge,0.0432401229735484
+T0648,F058,EAA-pain,pooled-sex-stratified,1,Pooled,Male,Hannum,0.5184876985594202
+T0649,F058,EAA-pain,pooled-sex-stratified,1,Pooled,Female,Hannum,0.4058595420253126
+T0650,F058,EAA-pain,pooled-sex-stratified,1,Pooled,Male,Horvath,0.4819657545669789
+T0651,F058,EAA-pain,pooled-sex-stratified,1,Pooled,Female,Horvath,0.09639351893985015
+T0652,F059,EAA-pain,pooled-sex-stratified,2,Pooled,Male,DunedinPACE,0.4368132261820914
+T0653,F059,EAA-pain,pooled-sex-stratified,2,Pooled,Female,DunedinPACE,0.7942581617452309
+T0654,F059,EAA-pain,pooled-sex-stratified,2,Pooled,Male,GrimAge2,0.5063144164691213
+T0655,F059,EAA-pain,pooled-sex-stratified,2,Pooled,Female,GrimAge2,0.009362727714169683
+T0656,F059,EAA-pain,pooled-sex-stratified,2,Pooled,Male,GrimAge1v2,0.5826507011776594
+T0657,F059,EAA-pain,pooled-sex-stratified,2,Pooled,Female,GrimAge1v2,0.0008377756469923892
+T0658,F059,EAA-pain,pooled-sex-stratified,2,Pooled,Male,PhenoAge,0.1834556683081345
+T0659,F059,EAA-pain,pooled-sex-stratified,2,Pooled,Female,PhenoAge,0.007163478798196898
+T0660,F059,EAA-pain,pooled-sex-stratified,2,Pooled,Male,Hannum,0.4368110728426844
+T0661,F059,EAA-pain,pooled-sex-stratified,2,Pooled,Female,Hannum,0.2994223354265948
+T0662,F059,EAA-pain,pooled-sex-stratified,2,Pooled,Male,Horvath,0.5003511838144141
+T0663,F059,EAA-pain,pooled-sex-stratified,2,Pooled,Female,Horvath,0.03229198606913042
+T0664,F060,EAA-pain,pooled-sex-stratified,3,Pooled,Male,DunedinPACE,0.8869635963589935
+T0665,F060,EAA-pain,pooled-sex-stratified,3,Pooled,Female,DunedinPACE,0.06915734945073115
+T0666,F060,EAA-pain,pooled-sex-stratified,3,Pooled,Male,GrimAge2,0.1274509214495749
+T0667,F060,EAA-pain,pooled-sex-stratified,3,Pooled,Female,GrimAge2,0.05673127074681661
+T0668,F060,EAA-pain,pooled-sex-stratified,3,Pooled,Male,GrimAge1v2,0.04669243579898086
+T0669,F060,EAA-pain,pooled-sex-stratified,3,Pooled,Female,GrimAge1v2,0.2300005466092401
+T0670,F060,EAA-pain,pooled-sex-stratified,3,Pooled,Male,PhenoAge,0.3534933541988503
+T0671,F060,EAA-pain,pooled-sex-stratified,3,Pooled,Female,PhenoAge,0.0002454200905606108
+T0672,F060,EAA-pain,pooled-sex-stratified,3,Pooled,Male,Hannum,0.3345468174169832
+T0673,F060,EAA-pain,pooled-sex-stratified,3,Pooled,Female,Hannum,0.1559401576745518
+T0674,F060,EAA-pain,pooled-sex-stratified,3,Pooled,Male,Horvath,0.5244819184456564
+T0675,F060,EAA-pain,pooled-sex-stratified,3,Pooled,Female,Horvath,0.01744928590006878
+T0676,F074,Mediation,Sex-stratified cohorts,1,GS,Female,DunedinPACE,0.55
+T0677,F073,Mediation,Sex-stratified cohorts,1,GS,Female,GrimAge1v2,0.152
+T0678,F073,Mediation,Sex-stratified cohorts,1,GS,Female,GrimAge2,0.244
+T0679,F074,Mediation,Sex-stratified cohorts,1,GS,Female,Hannum,0.366
+T0680,F074,Mediation,Sex-stratified cohorts,1,GS,Female,Horvath,0.684
+T0681,F074,Mediation,Sex-stratified cohorts,1,GS,Female,PhenoAge,0.056
+T0682,F074,Mediation,Sex-stratified cohorts,1,GS,Male,DunedinPACE,0.538
+T0683,F073,Mediation,Sex-stratified cohorts,1,GS,Male,GrimAge1v2,0.99
+T0684,F073,Mediation,Sex-stratified cohorts,1,GS,Male,GrimAge2,0.832
+T0685,F074,Mediation,Sex-stratified cohorts,1,GS,Male,Hannum,0.84
+T0686,F074,Mediation,Sex-stratified cohorts,1,GS,Male,Horvath,0.93
+T0687,F074,Mediation,Sex-stratified cohorts,1,GS,Male,PhenoAge,0.52
+T0688,F074,Mediation,Sex-stratified cohorts,1,MIDUS,Female,DunedinPACE,0.54
+T0689,F073,Mediation,Sex-stratified cohorts,1,MIDUS,Female,GrimAge1v2,0.008
+T0690,F073,Mediation,Sex-stratified cohorts,1,MIDUS,Female,GrimAge2,0.002
+T0691,F074,Mediation,Sex-stratified cohorts,1,MIDUS,Female,Hannum,0.354
+T0692,F074,Mediation,Sex-stratified cohorts,1,MIDUS,Female,Horvath,0.764
+T0693,F074,Mediation,Sex-stratified cohorts,1,MIDUS,Female,PhenoAge,0.544
+T0694,F074,Mediation,Sex-stratified cohorts,1,MIDUS,Male,DunedinPACE,0.664
+T0695,F073,Mediation,Sex-stratified cohorts,1,MIDUS,Male,GrimAge1v2,0.886
+T0696,F073,Mediation,Sex-stratified cohorts,1,MIDUS,Male,GrimAge2,0.968
+T0697,F074,Mediation,Sex-stratified cohorts,1,MIDUS,Male,Hannum,0.95
+T0698,F074,Mediation,Sex-stratified cohorts,1,MIDUS,Male,Horvath,0.522
+T0699,F074,Mediation,Sex-stratified cohorts,1,MIDUS,Male,PhenoAge,0.296
+T0700,F076,Mediation,Sex-stratified cohorts,2,GS,Female,DunedinPACE,0.816
+T0701,F075,Mediation,Sex-stratified cohorts,2,GS,Female,GrimAge1v2,0.198
+T0702,F075,Mediation,Sex-stratified cohorts,2,GS,Female,GrimAge2,0.39
+T0703,F076,Mediation,Sex-stratified cohorts,2,GS,Female,Hannum,0.474
+T0704,F076,Mediation,Sex-stratified cohorts,2,GS,Female,Horvath,0.4
+T0705,F076,Mediation,Sex-stratified cohorts,2,GS,Female,PhenoAge,0.212
+T0706,F076,Mediation,Sex-stratified cohorts,2,GS,Male,DunedinPACE,0.73
+T0707,F075,Mediation,Sex-stratified cohorts,2,GS,Male,GrimAge1v2,0.99
+T0708,F075,Mediation,Sex-stratified cohorts,2,GS,Male,GrimAge2,0.866
+T0709,F076,Mediation,Sex-stratified cohorts,2,GS,Male,Hannum,0.856
+T0710,F076,Mediation,Sex-stratified cohorts,2,GS,Male,Horvath,0.976
+T0711,F076,Mediation,Sex-stratified cohorts,2,GS,Male,PhenoAge,0.756
+T0712,F076,Mediation,Sex-stratified cohorts,2,MIDUS,Female,DunedinPACE,0.448
+T0713,F075,Mediation,Sex-stratified cohorts,2,MIDUS,Female,GrimAge1v2,0.004
+T0714,F075,Mediation,Sex-stratified cohorts,2,MIDUS,Female,GrimAge2,0.032
+T0715,F076,Mediation,Sex-stratified cohorts,2,MIDUS,Female,Hannum,0.46
+T0716,F076,Mediation,Sex-stratified cohorts,2,MIDUS,Female,Horvath,0.998
+T0717,F076,Mediation,Sex-stratified cohorts,2,MIDUS,Female,PhenoAge,0.976
+T0718,F076,Mediation,Sex-stratified cohorts,2,MIDUS,Male,DunedinPACE,0.798
+T0719,F075,Mediation,Sex-stratified cohorts,2,MIDUS,Male,GrimAge1v2,0.948
+T0720,F075,Mediation,Sex-stratified cohorts,2,MIDUS,Male,GrimAge2,0.978
+T0721,F076,Mediation,Sex-stratified cohorts,2,MIDUS,Male,Hannum,0.84
+T0722,F076,Mediation,Sex-stratified cohorts,2,MIDUS,Male,Horvath,0.536
+T0723,F076,Mediation,Sex-stratified cohorts,2,MIDUS,Male,PhenoAge,0.478
+T0724,F078,Mediation,Sex-stratified cohorts,3,GS,Female,DunedinPACE,0.954
+T0725,F077,Mediation,Sex-stratified cohorts,3,GS,Female,GrimAge1v2,0.406
+T0726,F077,Mediation,Sex-stratified cohorts,3,GS,Female,GrimAge2,0.766
+T0727,F078,Mediation,Sex-stratified cohorts,3,GS,Female,Hannum,0.698
+T0728,F078,Mediation,Sex-stratified cohorts,3,GS,Female,Horvath,0.314
+T0729,F078,Mediation,Sex-stratified cohorts,3,GS,Female,PhenoAge,0.496
+T0730,F078,Mediation,Sex-stratified cohorts,3,GS,Male,DunedinPACE,0.946
+T0731,F077,Mediation,Sex-stratified cohorts,3,GS,Male,GrimAge1v2,0.716
+T0732,F077,Mediation,Sex-stratified cohorts,3,GS,Male,GrimAge2,0.804
+T0733,F078,Mediation,Sex-stratified cohorts,3,GS,Male,Hannum,0.926
+T0734,F078,Mediation,Sex-stratified cohorts,3,GS,Male,Horvath,0.912
+T0735,F078,Mediation,Sex-stratified cohorts,3,GS,Male,PhenoAge,0.848
+T0736,F078,Mediation,Sex-stratified cohorts,3,MIDUS,Female,DunedinPACE,0.554
+T0737,F077,Mediation,Sex-stratified cohorts,3,MIDUS,Female,GrimAge1v2,0.294
+T0738,F077,Mediation,Sex-stratified cohorts,3,MIDUS,Female,GrimAge2,0.136
+T0739,F078,Mediation,Sex-stratified cohorts,3,MIDUS,Female,Hannum,0.724
+T0740,F078,Mediation,Sex-stratified cohorts,3,MIDUS,Female,Horvath,0.964
+T0741,F078,Mediation,Sex-stratified cohorts,3,MIDUS,Female,PhenoAge,0.478
+T0742,F078,Mediation,Sex-stratified cohorts,3,MIDUS,Male,DunedinPACE,0.96
+T0743,F077,Mediation,Sex-stratified cohorts,3,MIDUS,Male,GrimAge1v2,0.658
+T0744,F077,Mediation,Sex-stratified cohorts,3,MIDUS,Male,GrimAge2,0.472
+T0745,F078,Mediation,Sex-stratified cohorts,3,MIDUS,Male,Hannum,0.788
+T0746,F078,Mediation,Sex-stratified cohorts,3,MIDUS,Male,Horvath,0.536
+T0747,F078,Mediation,Sex-stratified cohorts,3,MIDUS,Male,PhenoAge,0.55
+T0748,F080,Mediation,Sex-stratified pooled,1,Pooled,Male,DunedinPACE,0.5149303959085612
+T0749,F080,Mediation,Sex-stratified pooled,1,Pooled,Female,DunedinPACE,0.4605447166861663
+T0750,F079,Mediation,Sex-stratified pooled,1,Pooled,Male,GrimAge2,0.8539724130505568
+T0751,F079,Mediation,Sex-stratified pooled,1,Pooled,Female,GrimAge2,0.02764659989295204
+T0752,F079,Mediation,Sex-stratified pooled,1,Pooled,Male,GrimAge1v2,0.9921888162912962
+T0753,F079,Mediation,Sex-stratified pooled,1,Pooled,Female,GrimAge1v2,0.01356974281356815
+T0754,F080,Mediation,Sex-stratified pooled,1,Pooled,Male,PhenoAge,0.344212461042902
+T0755,F080,Mediation,Sex-stratified pooled,1,Pooled,Female,PhenoAge,0.532371053067199
+T0756,F080,Mediation,Sex-stratified pooled,1,Pooled,Male,Hannum,0.8785796566082669
+T0757,F080,Mediation,Sex-stratified pooled,1,Pooled,Female,Hannum,0.9368591446753352
+T0758,F080,Mediation,Sex-stratified pooled,1,Pooled,Male,Horvath,0.6725221597957367
+T0759,F080,Mediation,Sex-stratified pooled,1,Pooled,Female,Horvath,0.951374429246326
+T0760,F082,Mediation,Sex-stratified pooled,2,Pooled,Male,DunedinPACE,0.7020150398934926
+T0761,F082,Mediation,Sex-stratified pooled,2,Pooled,Female,DunedinPACE,0.79155129073386
+T0762,F081,Mediation,Sex-stratified pooled,2,Pooled,Male,GrimAge2,0.9330934246508065
+T0763,F081,Mediation,Sex-stratified pooled,2,Pooled,Female,GrimAge2,0.07698640970432269
+T0764,F081,Mediation,Sex-stratified pooled,2,Pooled,Male,GrimAge1v2,0.9231540441996864
+T0765,F081,Mediation,Sex-stratified pooled,2,Pooled,Female,GrimAge1v2,0.02066895456275764
+T0766,F082,Mediation,Sex-stratified pooled,2,Pooled,Male,PhenoAge,0.4830818103537002
+T0767,F082,Mediation,Sex-stratified pooled,2,Pooled,Female,PhenoAge,0.5064215864999657
+T0768,F082,Mediation,Sex-stratified pooled,2,Pooled,Male,Hannum,0.8442806461781787
+T0769,F082,Mediation,Sex-stratified pooled,2,Pooled,Female,Hannum,0.8920828873066164
+T0770,F082,Mediation,Sex-stratified pooled,2,Pooled,Male,Horvath,0.6927707739010194
+T0771,F082,Mediation,Sex-stratified pooled,2,Pooled,Female,Horvath,0.5526241000344305
+T0772,F084,Mediation,Sex-stratified pooled,3,Pooled,Male,DunedinPACE,0.9547377808285289
+T0773,F084,Mediation,Sex-stratified pooled,3,Pooled,Female,DunedinPACE,0.7059267844395203
+T0774,F083,Mediation,Sex-stratified pooled,3,Pooled,Male,GrimAge2,0.5624769318374221
+T0775,F083,Mediation,Sex-stratified pooled,3,Pooled,Female,GrimAge2,0.4162995855049825
+T0776,F083,Mediation,Sex-stratified pooled,3,Pooled,Male,GrimAge1v2,0.6620623476964429
+T0777,F083,Mediation,Sex-stratified pooled,3,Pooled,Female,GrimAge1v2,0.9613619994054252
+T0778,F084,Mediation,Sex-stratified pooled,3,Pooled,Male,PhenoAge,0.5840237671544832
+T0779,F084,Mediation,Sex-stratified pooled,3,Pooled,Female,PhenoAge,0.3669930234522769
+T0780,F084,Mediation,Sex-stratified pooled,3,Pooled,Male,Hannum,0.8781703061387371
+T0781,F084,Mediation,Sex-stratified pooled,3,Pooled,Female,Hannum,0.7090151527345956
+T0782,F084,Mediation,Sex-stratified pooled,3,Pooled,Male,Horvath,0.7129598482055286
+T0783,F084,Mediation,Sex-stratified pooled,3,Pooled,Female,Horvath,0.4917616994844143
+T0784,F062,Mediation,Combined-sex cohorts,1,GS,Combined,Horvath,0.726
+T0785,F062,Mediation,Combined-sex cohorts,1,GS,Combined,Hannum,0.328
+T0786,F062,Mediation,Combined-sex cohorts,1,GS,Combined,PhenoAge,0.028
+T0787,F061,Mediation,Combined-sex cohorts,1,GS,Combined,GrimAge1v2,0.676
+T0788,F061,Mediation,Combined-sex cohorts,1,GS,Combined,GrimAge2,0.54
+T0789,F062,Mediation,Combined-sex cohorts,1,GS,Combined,DunedinPACE,0.574
+T0790,F064,Mediation,Combined-sex cohorts,2,GS,Combined,Horvath,0.52
+T0791,F064,Mediation,Combined-sex cohorts,2,GS,Combined,Hannum,0.452
+T0792,F064,Mediation,Combined-sex cohorts,2,GS,Combined,PhenoAge,0.04
+T0793,F063,Mediation,Combined-sex cohorts,2,GS,Combined,GrimAge1v2,0.838
+T0794,F063,Mediation,Combined-sex cohorts,2,GS,Combined,GrimAge2,0.75
+T0795,F064,Mediation,Combined-sex cohorts,2,GS,Combined,DunedinPACE,0.978
+T0796,F066,Mediation,Combined-sex cohorts,3,GS,Combined,Horvath,0.394
+T0797,F066,Mediation,Combined-sex cohorts,3,GS,Combined,Hannum,0.788
+T0798,F066,Mediation,Combined-sex cohorts,3,GS,Combined,PhenoAge,0.18
+T0799,F065,Mediation,Combined-sex cohorts,3,GS,Combined,GrimAge1v2,0.646
+T0800,F065,Mediation,Combined-sex cohorts,3,GS,Combined,GrimAge2,0.728
+T0801,F066,Mediation,Combined-sex cohorts,3,GS,Combined,DunedinPACE,0.702
+T0802,F062,Mediation,Combined-sex cohorts,1,MIDUS,Combined,Horvath,0.922
+T0803,F062,Mediation,Combined-sex cohorts,1,MIDUS,Combined,Hannum,0.69
+T0804,F062,Mediation,Combined-sex cohorts,1,MIDUS,Combined,PhenoAge,0.246
+T0805,F061,Mediation,Combined-sex cohorts,1,MIDUS,Combined,GrimAge1v2,0.03
+T0806,F061,Mediation,Combined-sex cohorts,1,MIDUS,Combined,GrimAge2,0.05
+T0807,F062,Mediation,Combined-sex cohorts,1,MIDUS,Combined,DunedinPACE,0.492
+T0808,F064,Mediation,Combined-sex cohorts,2,MIDUS,Combined,Horvath,0.9
+T0809,F064,Mediation,Combined-sex cohorts,2,MIDUS,Combined,Hannum,0.88
+T0810,F064,Mediation,Combined-sex cohorts,2,MIDUS,Combined,PhenoAge,0.554
+T0811,F063,Mediation,Combined-sex cohorts,2,MIDUS,Combined,GrimAge1v2,0.05
+T0812,F063,Mediation,Combined-sex cohorts,2,MIDUS,Combined,GrimAge2,0.132
+T0813,F064,Mediation,Combined-sex cohorts,2,MIDUS,Combined,DunedinPACE,0.686
+T0814,F066,Mediation,Combined-sex cohorts,3,MIDUS,Combined,Horvath,0.916
+T0815,F066,Mediation,Combined-sex cohorts,3,MIDUS,Combined,Hannum,0.95
+T0816,F066,Mediation,Combined-sex cohorts,3,MIDUS,Combined,PhenoAge,0.948
+T0817,F065,Mediation,Combined-sex cohorts,3,MIDUS,Combined,GrimAge1v2,0.492
+T0818,F065,Mediation,Combined-sex cohorts,3,MIDUS,Combined,GrimAge2,0.162
+T0819,F066,Mediation,Combined-sex cohorts,3,MIDUS,Combined,DunedinPACE,0.094
+T0820,F068,Mediation,Combined-sex pooled,1,Pooled,Combined,DunedinPACE,0.3963407925262632
+T0821,F067,Mediation,Combined-sex pooled,1,Pooled,Combined,GrimAge2,0.09224348684026196
+T0822,F067,Mediation,Combined-sex pooled,1,Pooled,Combined,GrimAge1v2,0.1174171744336074
+T0823,F068,Mediation,Combined-sex pooled,1,Pooled,Combined,PhenoAge,0.6983219969836068
+T0824,F068,Mediation,Combined-sex pooled,1,Pooled,Combined,Hannum,0.9698945466551265
+T0825,F068,Mediation,Combined-sex pooled,1,Pooled,Combined,Horvath,0.8498662692061025
+T0826,F070,Mediation,Combined-sex pooled,2,Pooled,Combined,DunedinPACE,0.2733731236935764
+T0827,F069,Mediation,Combined-sex pooled,2,Pooled,Combined,GrimAge2,0.3315577207875346
+T0828,F069,Mediation,Combined-sex pooled,2,Pooled,Combined,GrimAge1v2,0.3640644956758103
+T0829,F070,Mediation,Combined-sex pooled,2,Pooled,Combined,PhenoAge,0.5033365854259331
+T0830,F070,Mediation,Combined-sex pooled,2,Pooled,Combined,Hannum,0.8478301069077381
+T0831,F070,Mediation,Combined-sex pooled,2,Pooled,Combined,Horvath,0.6606115880587771
+T0832,F072,Mediation,Combined-sex pooled,3,Pooled,Combined,DunedinPACE,0.7665934634330402
+T0833,F071,Mediation,Combined-sex pooled,3,Pooled,Combined,GrimAge2,0.2058564126922398
+T0834,F071,Mediation,Combined-sex pooled,3,Pooled,Combined,GrimAge1v2,0.1864693676981544
+T0835,F072,Mediation,Combined-sex pooled,3,Pooled,Combined,PhenoAge,0.2095803743452846
+T0836,F072,Mediation,Combined-sex pooled,3,Pooled,Combined,Hannum,0.8156290386662144
+T0837,F072,Mediation,Combined-sex pooled,3,Pooled,Combined,Horvath,0.8004973543746148

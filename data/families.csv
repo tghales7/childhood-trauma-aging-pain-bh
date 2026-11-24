@@ -1,0 +1,85 @@
+family_id,analysis,scope,model,expected_n,description
+F001,CTQ severity-EAA,pooled-combined-sex,1,18,Model1 | Six clocks x Combined sex: three contrasts
+F002,CTQ severity-EAA,pooled-combined-sex,2,18,Model2 | Six clocks x Combined sex: three contrasts
+F003,CTQ severity-EAA,pooled-combined-sex,3,18,Model3 | Six clocks x Combined sex: three contrasts
+F004,CTQ severity-EAA,pooled-sex-stratified,1,36,Model1 | Six clocks x Women + men: three contrasts x two sexes
+F005,CTQ severity-EAA,pooled-sex-stratified,2,36,Model2 | Six clocks x Women + men: three contrasts x two sexes
+F006,CTQ severity-EAA,pooled-sex-stratified,3,36,Model3 | Six clocks x Women + men: three contrasts x two sexes
+F007,CTQ severity-pain,pooled-combined-sex,1,3,Model1 | Combined sex: three contrasts
+F008,CTQ severity-pain,pooled-combined-sex,2,3,Model2 | Combined sex: three contrasts
+F009,CTQ severity-pain,pooled-combined-sex,3,3,Model3 | Combined sex: three contrasts
+F010,CTQ severity-pain,pooled-sex-stratified,1,6,Model1 | Women + men: three contrasts x two sexes
+F011,CTQ severity-pain,pooled-sex-stratified,2,6,Model2 | Women + men: three contrasts x two sexes
+F012,CTQ severity-pain,pooled-sex-stratified,3,6,Model3 | Women + men: three contrasts x two sexes
+F013,CTQ-EAA,cohorts-combined-sex,1,12,Model1 | six clocks x two cohorts | combined sexes
+F014,CTQ-EAA,cohorts-combined-sex,2,12,Model2 | six clocks x two cohorts | combined sexes
+F015,CTQ-EAA,cohorts-combined-sex,3,12,Model3 | six clocks x two cohorts | combined sexes
+F016,CTQ-EAA,cohorts-sex-stratified,1,24,Model1 | six clocks x two cohorts x two sexes
+F017,CTQ-EAA,cohorts-sex-stratified,2,24,Model2 | six clocks x two cohorts x two sexes
+F018,CTQ-EAA,cohorts-sex-stratified,3,24,Model3 | six clocks x two cohorts x two sexes
+F019,CTQ-EAA,pooled-combined-sex,1,6,CTQEAA | Model 1 | Pooled | Combined sexes | Six clocks
+F020,CTQ-EAA,pooled-combined-sex,2,6,CTQEAA | Model 2 | Pooled | Combined sexes | Six clocks
+F021,CTQ-EAA,pooled-combined-sex,3,6,CTQEAA | Model 3 | Pooled | Combined sexes | Six clocks
+F022,CTQ-EAA,pooled-sex-stratified,1,12,Sheet1 | Model 1 | Pooled | Women + men | Six clocks
+F023,CTQ-EAA,pooled-sex-stratified,2,12,Sheet1 | Model 2 | Pooled | Women + men | Six clocks
+F024,CTQ-EAA,pooled-sex-stratified,3,12,Sheet1 | Model 3 | Pooled | Women + men | Six clocks
+F025,CTQ-pain,cohorts-combined-sex,1,10,Model1 | GS + MIDUS | combined sexes | Five CTQ subscales
+F026,CTQ-pain,cohorts-combined-sex,1,2,Model1 | GS + MIDUS | combined sexes | Total CTQ
+F027,CTQ-pain,cohorts-combined-sex,2,10,Model2 | GS + MIDUS | combined sexes | Five CTQ subscales
+F028,CTQ-pain,cohorts-combined-sex,2,2,Model2 | GS + MIDUS | combined sexes | Total CTQ
+F029,CTQ-pain,cohorts-combined-sex,3,10,Model3 | GS + MIDUS | combined sexes | Five CTQ subscales
+F030,CTQ-pain,cohorts-combined-sex,3,2,Model3 | GS + MIDUS | combined sexes | Total CTQ
+F031,CTQ-pain,cohorts-sex-stratified,1,20,Model1 | Women + men | GS + MIDUS | Five subscales x two cohorts
+F032,CTQ-pain,cohorts-sex-stratified,1,4,Model1 | Women + men | GS + MIDUS | Total CTQ x two cohorts
+F033,CTQ-pain,cohorts-sex-stratified,2,20,Model2 | Women + men | GS + MIDUS | Five subscales x two cohorts
+F034,CTQ-pain,cohorts-sex-stratified,2,4,Model2 | Women + men | GS + MIDUS | Total CTQ x two cohorts
+F035,CTQ-pain,cohorts-sex-stratified,3,20,Model3 | Women + men | GS + MIDUS | Five subscales x two cohorts
+F036,CTQ-pain,cohorts-sex-stratified,3,4,Model3 | Women + men | GS + MIDUS | Total CTQ x two cohorts
+F037,CTQ-pain,pooled-combined-sex,1,5,CTQPain | Model 1 | Pooled | Combined sexes | Five subscales
+F038,CTQ-pain,pooled-combined-sex,1,1,CTQPain | Model 1 | Pooled | Combined sexes | Total CTQ
+F039,CTQ-pain,pooled-combined-sex,2,5,CTQPain | Model 2 | Pooled | Combined sexes | Five subscales
+F040,CTQ-pain,pooled-combined-sex,2,1,CTQPain | Model 2 | Pooled | Combined sexes | Total CTQ
+F041,CTQ-pain,pooled-combined-sex,3,5,CTQPain | Model 3 | Pooled | Combined sexes | Five subscales
+F042,CTQ-pain,pooled-combined-sex,3,1,CTQPain | Model 3 | Pooled | Combined sexes | Total CTQ
+F043,CTQ-pain,pooled-sex-stratified,1,10,Sheet1 | Model 1 | Pooled | Women + men | Five subscales
+F044,CTQ-pain,pooled-sex-stratified,1,2,Sheet1 | Model 1 | Pooled | Women + men | Total CTQ
+F045,CTQ-pain,pooled-sex-stratified,2,10,Sheet1 | Model 2 | Pooled | Women + men | Five subscales
+F046,CTQ-pain,pooled-sex-stratified,2,2,Sheet1 | Model 2 | Pooled | Women + men | Total CTQ
+F047,CTQ-pain,pooled-sex-stratified,3,10,Sheet1 | Model 3 | Pooled | Women + men | Five subscales
+F048,CTQ-pain,pooled-sex-stratified,3,2,Sheet1 | Model 3 | Pooled | Women + men | Total CTQ
+F049,EAA-pain,cohorts-combined-sex,1,12,Model1 | six clocks x two cohorts | combined sexes
+F050,EAA-pain,cohorts-combined-sex,2,12,Model2 | six clocks x two cohorts | combined sexes
+F051,EAA-pain,cohorts-combined-sex,3,12,Model3 | six clocks x two cohorts | combined sexes
+F052,EAA-pain,cohorts-sex-stratified,1,24,Model1 | six clocks x two cohorts x two sexes
+F053,EAA-pain,cohorts-sex-stratified,2,24,Model2 | six clocks x two cohorts x two sexes
+F054,EAA-pain,cohorts-sex-stratified,3,24,Model3 | six clocks x two cohorts x two sexes
+F055,EAA-pain,pooled-combined-sex,1,6,EAAPain | Model 1 | Pooled | Combined sexes | Six clocks
+F056,EAA-pain,pooled-combined-sex,2,6,EAAPain | Model 2 | Pooled | Combined sexes | Six clocks
+F057,EAA-pain,pooled-combined-sex,3,6,EAAPain | Model 3 | Pooled | Combined sexes | Six clocks
+F058,EAA-pain,pooled-sex-stratified,1,12,Sheet 1 | Model 1 | Pooled | Women + men | Six clocks
+F059,EAA-pain,pooled-sex-stratified,2,12,Sheet 1 | Model 2 | Pooled | Women + men | Six clocks
+F060,EAA-pain,pooled-sex-stratified,3,12,Sheet 1 | Model 3 | Pooled | Women + men | Six clocks
+F061,Mediation,Combined-sex cohorts,1,4,Combined-sex cohorts | Model 1 | Primary GrimAge
+F062,Mediation,Combined-sex cohorts,1,8,Combined-sex cohorts | Model 1 | Secondary other clocks
+F063,Mediation,Combined-sex cohorts,2,4,Combined-sex cohorts | Model 2 | Primary GrimAge
+F064,Mediation,Combined-sex cohorts,2,8,Combined-sex cohorts | Model 2 | Secondary other clocks
+F065,Mediation,Combined-sex cohorts,3,4,Combined-sex cohorts | Model 3 | Primary GrimAge
+F066,Mediation,Combined-sex cohorts,3,8,Combined-sex cohorts | Model 3 | Secondary other clocks
+F067,Mediation,Combined-sex pooled,1,2,Combined-sex pooled | Model 1 | Primary GrimAge
+F068,Mediation,Combined-sex pooled,1,4,Combined-sex pooled | Model 1 | Secondary other clocks
+F069,Mediation,Combined-sex pooled,2,2,Combined-sex pooled | Model 2 | Primary GrimAge
+F070,Mediation,Combined-sex pooled,2,4,Combined-sex pooled | Model 2 | Secondary other clocks
+F071,Mediation,Combined-sex pooled,3,2,Combined-sex pooled | Model 3 | Primary GrimAge
+F072,Mediation,Combined-sex pooled,3,4,Combined-sex pooled | Model 3 | Secondary other clocks
+F073,Mediation,Sex-stratified cohorts,1,8,Sex-stratified cohorts | Model 1 | Primary GrimAge
+F074,Mediation,Sex-stratified cohorts,1,16,Sex-stratified cohorts | Model 1 | Secondary other clocks
+F075,Mediation,Sex-stratified cohorts,2,8,Sex-stratified cohorts | Model 2 | Primary GrimAge
+F076,Mediation,Sex-stratified cohorts,2,16,Sex-stratified cohorts | Model 2 | Secondary other clocks
+F077,Mediation,Sex-stratified cohorts,3,8,Sex-stratified cohorts | Model 3 | Primary GrimAge
+F078,Mediation,Sex-stratified cohorts,3,16,Sex-stratified cohorts | Model 3 | Secondary other clocks
+F079,Mediation,Sex-stratified pooled,1,4,Sex-stratified pooled | Model 1 | Primary GrimAge
+F080,Mediation,Sex-stratified pooled,1,8,Sex-stratified pooled | Model 1 | Secondary other clocks
+F081,Mediation,Sex-stratified pooled,2,4,Sex-stratified pooled | Model 2 | Primary GrimAge
+F082,Mediation,Sex-stratified pooled,2,8,Sex-stratified pooled | Model 2 | Secondary other clocks
+F083,Mediation,Sex-stratified pooled,3,4,Sex-stratified pooled | Model 3 | Primary GrimAge
+F084,Mediation,Sex-stratified pooled,3,8,Sex-stratified pooled | Model 3 | Secondary other clocks
