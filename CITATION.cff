@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it using these details."
+type: software
+title: "BH adjustments for childhood trauma, biological ageing and chronic pain"
+authors:
+  - family-names: "Hales"
+    given-names: "Tim G."
+repository-code: "https://github.com/tghales7/childhood-trauma-aging-pain-bh"
+license: MIT
