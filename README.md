@@ -1,8 +1,15 @@
 # Benjamini–Hochberg adjustments for childhood trauma biological ageing and pain
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24498705.svg)](https://doi.org/10.5281/zenodo.24498705)
+
+## Cite this code
+
+Hales, T. G. (2026). *BH adjustments for childhood trauma, biological ageing and chronic pain* (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.24498705
+
+
 This package reproduces the final BH adjustments used for supplementary Tables S4–S8 and the mediation table. It contains 837 summary-level p values in 84 explicitly defined families, covering CTQ–pain, CTQ severity–pain, CTQ–EAA, CTQ severity–EAA, EAA–pain and mediation analyses. It does not contain participant-level data.
 
-This is a local release candidate. The authors, licence, repository URL and citation metadata should be completed before public release. Earlier exploratory adjustment schemes and the separately numbered Supplementary Analyses 1–6 are outside this package.
+Version 1.0.0 is publicly released under the MIT licence and archived on Zenodo: https://doi.org/10.5281/zenodo.24498705. Earlier exploratory adjustment schemes and the separately numbered Supplementary Analyses 1–6 are outside this package.
 
 ## Run the analysis
 
@@ -82,7 +89,7 @@ The mediation table is headed “Table S8” in the current document but appears
 
 ## Publication preparation
 
-Before publishing, complete the authorship and licence details, confirm that these summary-level inputs are approved for sharing, add a `CITATION.cff` file and create a versioned GitHub release. Archive the reviewed release on Zenodo and cite its version-specific DOI in the manuscript. Those publication steps have not yet been performed.
+Version 1.0.0 was published on 24 November 2026 and archived on Zenodo at https://doi.org/10.5281/zenodo.24498705. The DOI identifies the archived release; subsequent changes to the main branch do not alter that archive.
 
 Reference: Benjamini Y, Hochberg Y. Controlling the false discovery rate: a practical and powerful approach to multiple testing. Journal of the Royal Statistical Society Series B. 1995;57:289–300.
 
