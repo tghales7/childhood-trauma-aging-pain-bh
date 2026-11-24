@@ -85,3 +85,10 @@ The mediation table is headed “Table S8” in the current document but appears
 Before publishing, complete the authorship and licence details, confirm that these summary-level inputs are approved for sharing, add a `CITATION.cff` file and create a versioned GitHub release. Archive the reviewed release on Zenodo and cite its version-specific DOI in the manuscript. Those publication steps have not yet been performed.
 
 Reference: Benjamini Y, Hochberg Y. Controlling the false discovery rate: a practical and powerful approach to multiple testing. Journal of the Royal Statistical Society Series B. 1995;57:289–300.
+
+## Corresponding Author
+
+Full name: Tim G. Hales
+Affiliation: School of Medicine, University of Dundee, Dundee, UK
+ORCID: https://orcid.org/0000-0002-2040-9714
+Contribution to the code or analysis: Statistical strategy and validation
