@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "tests": 837,
+  "families": 84,
+  "max_absolute_q_difference": 4.163336342344337e-17,
+  "unit_tests_passed": 5,
+  "python": "3.12.14",
+  "scope": "Final primary supplementary tables and mediation; earlier exploratory schemes excluded",
+  "date": "2026-11-24"
+}

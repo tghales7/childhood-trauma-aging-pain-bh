@@ -1,0 +1,82 @@
+[
+  {
+    "file": "GS_MIDUS_CTQ_Pain_Models_1_2_3_Sex_BH_including_sex.xlsx",
+    "sha256": "e92421faddf317fb158703bf349a920f15febd170014e9ec9c8efc1f61f74df0",
+    "reference_rows": 72
+  },
+  {
+    "file": "GS_MIDUS_CTQ_Pain_Models_1_2_3_Combined_BH.xlsx",
+    "sha256": "b8ad129cdef47793e6e18ea16782a69dbeed677c50db66f1800cc5d3895aebab",
+    "reference_rows": 36
+  },
+  {
+    "file": "CombinedSex_Pooled_BH.xlsx",
+    "sha256": "37a8f2b43345d66a4afa71170429c89355ec006b063e7df191d7c0018a5aa027",
+    "reference_rows": 72
+  },
+  {
+    "file": "CTQ_Pain_Pooled_Results_Sex_BH.xlsx",
+    "sha256": "b9dfa1afe30aa31ac65fcef7313fbd6396711a21fb696f42a5170f46323edad5",
+    "reference_rows": 36
+  },
+  {
+    "file": "CTQPain_Severity_Results_BH.xlsx",
+    "sha256": "a83c08482848e7f7de24aa55d6acb743ded6aa3c114846799ab7651470ae8d61",
+    "reference_rows": 27
+  },
+  {
+    "file": "GS_MIDUS_CTQ_EAA_Models_1_2_3_Sex_BH_recalculated.xlsx",
+    "sha256": "57c00abee232868e1ee621c29d1b1d45e7dcfb771dbf740df0b57dbedc0a74e5",
+    "reference_rows": 72
+  },
+  {
+    "file": "GS_MIDUS_CTQ_EAA_Models_1_2_3_Combined_BH.xlsx",
+    "sha256": "02d933458cd2a5f34c41a5ccb82cbbec1dd875e9eed24506603f691e1ecb397a",
+    "reference_rows": 36
+  },
+  {
+    "file": "CombinedSex_Pooled_BH.xlsx",
+    "sha256": "7c5318cba8ec8ba31f32237ccd21547a8f39dc4ffee257d08a1949620135cdf5",
+    "reference_rows": 72
+  },
+  {
+    "file": "CTQ_EAA_Pooled_Results_Sex_BH.xlsx",
+    "sha256": "9624ac4c16f0d111270dff2339e97872e39132c74a0b009ce67d5bea66da00af",
+    "reference_rows": 36
+  },
+  {
+    "file": "CTQEAA_Severity_Results_BH.xlsx",
+    "sha256": "334cd40f96246a270db37515838a90871ee6a2c8b2081d00c77bcd5a8704e409",
+    "reference_rows": 162
+  },
+  {
+    "file": "GS_MIDUS_EAA_Pain_Models_1_2_3_Sex_BH_including_sex.xlsx",
+    "sha256": "438be79d8e2097aeb1590aa6a4e512642c05813444dd778a9be49e736fc1daba",
+    "reference_rows": 72
+  },
+  {
+    "file": "GS_MIDUS_EAA_Pain_Models_1_2_3_Combined_BH.xlsx",
+    "sha256": "45e6f568f614852e882c1582793c65e088386bc861eb57c62fe174d3799debbe",
+    "reference_rows": 36
+  },
+  {
+    "file": "CombinedSex_Pooled_EAAPain_BH.xlsx",
+    "sha256": "94913ae82230d054d0f76d4fba96a69e9b04a79674d053395401442d3365ca9d",
+    "reference_rows": 18
+  },
+  {
+    "file": "EAA_Pain_Pooled_Results_Sex_BH.xlsx",
+    "sha256": "cc21ec6455835510cae206e7066fcc2159e9e5c100d86b8692b1abd56cf48e7e",
+    "reference_rows": 36
+  },
+  {
+    "file": "GS_MIDUS_Mediation_Models_1_2_3_BH_primary_secondary.xlsx",
+    "sha256": "b2db423dc05ff706e20c21cde0f2424b122308d4726834609613da122786f1a4",
+    "reference_rows": 144
+  },
+  {
+    "file": "Mediation_Combined_and_Pooled_BH_primary_secondary.xlsx",
+    "sha256": "7189f56dddb08d2291151cbd3b4bd223f41f216563b23ce73702fab400d3560e",
+    "reference_rows": 90
+  }
+]
