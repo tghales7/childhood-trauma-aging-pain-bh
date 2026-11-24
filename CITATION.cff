@@ -7,3 +7,7 @@ authors:
     given-names: "Tim G."
 repository-code: "https://github.com/tghales7/childhood-trauma-aging-pain-bh"
 license: MIT
+
+version: "1.0.0"
+date-released: "2026-11-24"
+doi: "10.5281/zenodo.24498705"
