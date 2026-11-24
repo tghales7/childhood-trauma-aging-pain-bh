@@ -92,3 +92,5 @@ Full name: Tim G. Hales
 Affiliation: School of Medicine, University of Dundee, Dundee, UK
 ORCID: https://orcid.org/0000-0002-2040-9714
 Contribution to the code or analysis: Statistical strategy and validation
+
+The Python implementation and validation materials were prepared with assistance from OpenAI Codex and reviewed by Tim G. Hales.
